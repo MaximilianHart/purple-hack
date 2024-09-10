@@ -1,6 +1,6 @@
 # Purple Hack
 > [!NOTE]
-> *A fair-use amalgamation of AD&amp;D 1e (via OSRIC), *Swords &amp; Wizardry*, and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.*
+> *A fair-use amalgamation of OD&D (Attributes, Combat, & Cleric Spell Progression - ref. Swords & Wizardry), AD&amp;D 1e (Spells & Classes - ref. OSRIC), AD&D 2e (Thief - ref. For Gold & Glory), B/X (Procedures - ref. Old-School Essentials) and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the class descriptions, unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.*
 
 # Character Creation Quickstart
 
@@ -1307,6 +1307,6 @@ A character must be of the correct class to cast a spell from a scroll. Thus, on
 
 ## Spell Lists
 
-The spell lists & spells are as in *OSRIC*.
+The spell lists & spells are as in [*OSRIC*](https://osricrpg.com/files/osric_core_rules.pdf).
 
 
