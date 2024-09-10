@@ -1066,8 +1066,8 @@ You and your fellow Rangers are the inheritors of ancient scholarship, students 
 
 **Tracking:** Rangers are able to track down other creatures in the wild, in cities, and even underground.
 
-• Outdoor Tracking: Outdoors, the basic chance for successful tracking (on a day-to-day basis) is 90%, modified by a --10% for each day old the tracks are, and modified by --10% (for the entire effort thereafter) for each day of rain (or snow) that has fallen on the trail.
-• Underground and City Tracking: Tracking in the city (any urban or populated area) or underground, makes it considerably harder to find and follow a trail. First, the beginning of the trail must be no more than an hour old. The base chance to track is 65%, and each time the trail changes (as described below), there is a chance for the Ranger to lose the trail and be unable to track it further.
+- Outdoor Tracking: Outdoors, the basic chance for successful tracking (on a day-to-day basis) is 90%, modified by a --10% for each day old the tracks are, and modified by --10% (for the entire effort thereafter) for each day of rain (or snow) that has fallen on the trail.
+- Underground and City Tracking: Tracking in the city (any urban or populated area) or underground, makes it considerably harder to find and follow a trail. First, the beginning of the trail must be no more than an hour old. The base chance to track is 65%, and each time the trail changes (as described below), there is a chance for the Ranger to lose the trail and be unable to track it further.
 
   | Trail Change                           | Chance to Lose Trail |
   |-------------------------------------------------------|---------------------------|
