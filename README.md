@@ -1,7 +1,9 @@
 # Purple Hack
-A fair-use amalgamation of AD&amp;D 1e (via OSRIC), Swords &amp; Wizardry, and other RPGs into a single ruleset.
+A fair-use amalgamation of AD&amp;D 1e (via OSRIC), *Swords &amp; Wizardry*, and other RPGs into a single ruleset. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.
 
-# Roll Your Stats
+# Character Creation Quickstart
+
+## Roll Your Stats
 
 Roll 3d6 down the line for Str, Dex, Con, Int, Wis, and Cha. You can swap one set of stats.
 
