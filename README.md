@@ -1066,9 +1066,8 @@ You and your fellow Rangers are the inheritors of ancient scholarship, students 
 
 **Tracking:** Rangers are able to track down other creatures in the wild, in cities, and even underground.
 
-> • Outdoor Tracking: Outdoors, the basic chance for successful tracking (on a day-to-day basis) is 90%, modified by a --10% for each day old the tracks are, and modified by --10% (for the entire effort thereafter) for each day of rain (or snow) that has fallen on the trail.
->
-> • Underground and City Tracking: Tracking in the city (any urban or populated area) or underground, makes it considerably harder to find and follow a trail. First, the beginning of the trail must be no more than an hour old. The base chance to track is 65%, and each time the trail changes (as described below), there is a chance for the Ranger to lose the trail and be unable to track it further.
+• Outdoor Tracking: Outdoors, the basic chance for successful tracking (on a day-to-day basis) is 90%, modified by a --10% for each day old the tracks are, and modified by --10% (for the entire effort thereafter) for each day of rain (or snow) that has fallen on the trail.
+• Underground and City Tracking: Tracking in the city (any urban or populated area) or underground, makes it considerably harder to find and follow a trail. First, the beginning of the trail must be no more than an hour old. The base chance to track is 65%, and each time the trail changes (as described below), there is a chance for the Ranger to lose the trail and be unable to track it further.
 
   | Trail Change                           | Chance to Lose Trail |
   |-------------------------------------------------------|---------------------------|
@@ -1165,158 +1164,35 @@ You are a figure in the shadows, an expert in stealth and delicate tasks. Locks,
 > -   **Hide in Shadows:** Some shadow must be present for this ability to be used, but if the check is successful the Thief is effectively invisible until he makes an attack or moves from the shadows. The ability can also be used to blend in with a crowd of people rather than disappear into shadows. Infravision does not reveal a hidden Thief.
 > -   **Climb Walls:** A Thief can scale sheer walls and surfaces without any gear, cling to ceilings, and perform other feats of climbing that would normally be impossible. The check is normally repeated every 10 feet.
 > -   **Detect Noise:** Replaces Listening at Doors and its base 1-in-6 chance (2-in-6 chance for elves & halflings).
-> ## Thief
+> -   **Read Languages:** The Thief may attempt to read languages and ciphers of a non-magical nature only.
 
-You are a figure in the shadows, an expert in stealth and delicate
-tasks. Locks, traps, and scouting are your trade; you are the eyes and
-ears of the adventuring party, the one who handles the perils of the
-dungeon itself. In many ways, you are a scholar of the world; in the
-course of your profession you pick up knowledge about languages and even
-magic. True, in combat you are not the equal of armored Fighters or
-Clerics, but they rely on your knowledge and specialized skills to get
-them safely into and out of the dangerous places where treasure is to be
-found. You are the guide; the scout; and when necessary, the deadly
-blade that strikes from the shadows without warning. In your profession,
-it takes great skill to survive---the life expectancy of most Thieves is
-very short. However, if you rise to high level, your reputation in the
-hidden community of tomb robbers and alley skulkers will attract
-followers to your side, often enough allies to place you in power as a
-guildmaster of Thieves. A high-level Thief is a deadly opponent, for
-such an individual has learned subtlety and survival in the game's most
-difficult profession.
+### Thief Level Advancement
 
-+-----------------------------------------------------------------------+
-| **Prime Attribute**: Dexterity, 13+ (+5% experience bonus)            |
-|                                                                       |
-| **Hit Dice**: 1d6/level (Gains 2hp/level after 10th level)            |
-|                                                                       |
-| **Armor/Shield Permitted**: Padded, leather, fur armor; no shield.    |
-|                                                                       |
-| **Weapons Permitted**: Any, but magical weapons are limited to        |
-| daggers and swords.                                                   |
-|                                                                       |
-| **Race**: Any                                                         |
-+-----------------------------------------------------------------------+
+| Level | XP Required for Level | Hit Dice (1d6) | To-Hit Bonus | Saving Throw |
+|-------|-----------------------|----------------|---------------|--------------|
+| 1     | 0                     | 1              | 0             | 14           |
+| 2     | 1,250                 | 2              | 0             | 14           |
+| 3     | 2,500                 | 3              | +1            | 14           |
+| 4     | 5,000                 | 4              | +1            | 14           |
+| 5     | 10,000                | 5              | +2            | 13           |
+| 6     | 20,000                | 6              | +2            | 13           |
+| 7     | 40,000                | 7              | +3            | 12           |
+| 8     | 70,000                | 8              | +3            | 12           |
+| 9     | 110,000               | 9              | +4            | 11           |
+| 10    | 160,000               | 10             | +4            | 11           |
+| 11    | 220,000               | 10+2*          | +5            | 10           |
+| 12    | 440,000               | 10+4*          | +5            | 10           |
+| 13    | 660,000               | 10+6*          | +6            | 9            |
+| 14    | 880,000               | 10+8*          | +6            | 9            |
+| 15    | 1,100,000             | 10+10*         | +7            | 9            |
+| 16    | 1,320,000             | 10+12*         | +7            | 9            |
+| 17    | 1,540,000             | 10+14*         | +8            | 8            |
+| 18    | 1,760,000             | 10+16*         | +8            | 8            |
+| 19    | 1,980,000             | 10+18*         | +9            | 8            |
+| 20    | 2,200,000             | 10+20*         | +9            | 8            |
+| 21+   | 2,420,000             | 10+22*         | +10           | 7            |
 
-**Alignment:** Thieves must be of Neutral or Chaotic alignment.
-
-**Backstab**: When attacking with surprise, from behind, with a melee
-weapon, the attack is made at +4 to hit and inflicts double damage. At
-levels 6-8, damage is tripled; at levels 9-12, damage is quadrupled; at
-level 13+, damage is quintupled. Damage modifiers (such as those
-pertaining to strength or magic) are not multiplied.
-
-**Saving Throw Bonus:** Thieves gain a +2 bonus on saving throws against
-devices, including traps, magical wands or staffs, and other magical
-devices.
-
-**Thieves' Cant:** Thieves have their own language.
-
-**Thieves' Guild (9th):** At 9th level, a Thief is well known enough to
-assemble a small guild of Thieves, attracting a shadowy band of sneaks,
-thugs, and other unsavory characters into his or her service. Thieves'
-guilds tend to be fronts for illicit or questionable activity regardless
-of alignment. Thieves usually attract a gang of followers appropriate to
-their alignment who are generally loyal, but not particularly devoted.
-
-**Use Scrolls (10th)**: At 10th level, Thieves can use magical and
-clerical scrolls. However, this casting is not always successful. The
-Thief should roll against his or her intelligence as a Magic-User to
-understand the scroll, and if the score shown on the die is insufficient
-for the Thief to cast the spell, then the casting will fail, likely
-having some entirely unexpected effect.
-
-**Thieving Skills:** Thieves are preternaturally good at certain skills.
-Roll the number listed or lower on a 1d20 to succeed. Add your Dex mod
-to \* skills. At 1st level, you have 12 points to distribute among your
-skills (no more than 6 to one single skill). At each level, you gain an
-additional 6 points to distribute (no more than 3 to a single skill each
-level). No skill can be raised above 19, including adjustments for
-dexterity, race, and armor. The referee will always roll Move Silently,
-Hide in Shadows, and Detect Noise checks. The starting values are as
-follows:
-
-<div>
-
--   \*Pick Pockets: 3
--   \*Open Locks: 2
--   \*Find/Remove Traps: 1
--   \*Move Silently: 2
--   \*Hide in Shadows: 1
--   Climb Walls: 12
--   Detect Noise: 3
--   Read Languages: 0
-
-</div>
-
--   **Pick Pockets:** If the Thief's pick pockets check fails by 4 or
-    more, then his or her attempt has been discovered and the intended
-    victim will almost always take hostile action.
--   **Open Locks:** Thieves can pick any mechanical locking mechanism
-    requiring keys and/or finesse to unlock. Picking a lock takes 1
-    turn. Failure indicates the attempt is impossible until the Thief
-    increases in experience level. Picking locks requires suitable
-    tools. Improvised tools and stressful or awkward positions apply
-    penalties as set by the referee.
--   **Find/Remove Traps:** Thieves' expertise with small, complex
-    mechanisms allows them to find and remove treasure traps or other
-    small traps with accessible mechanics. Other classes do not have the
-    expertise to attempt this feat. On a dice roll of 20 the trap is
-    automatically sprung. Removing or disarming a trap requires suitable
-    tools. Improvised tools and stressful or awkward positions apply
-    penalties as set by the referee. Thieves can detect and remove
-    magical traps, but the chance of success is halved. PCs of all
-    classes may try to find or remove any trap by describing their
-    actions (e.g. poking a dagger in a lock, pouring water over a floor,
-    etc.). In this way, it is possible to find, bypass, or disable traps
-    without a roll.
--   **Move Silently:** Thieves have the skill to move *completely*
-    *silently*. A Thief who fails their roll to move silently is still
-    assumed to be moving quietly; thus, the normal surprise rules apply.
--   **Hide in Shadows:** Some shadow must be present for this ability to
-    be used, but if the check is successful the Thief is effectively
-    invisible until he makes an attack or moves from the shadows. The
-    ability can also be used to blend in with a crowd of people rather
-    than disappear into shadows. Infravision does not reveal a hidden
-    Thief.
--   **Climb Walls:** A Thief can scale sheer walls and surfaces without
-    any gear, cling to ceilings, and perform other feats of climbing
-    that would normally be impossible. The check is normally repeated
-    every 10 feet.
--   **Detect Noise:** Replaces Listening at Doors and its base 1-in-6
-    chance (2-in-6 chance for elves & halflings).
--   **Read Languages:** The Thief may attempt to read languages and
-    ciphers of a non-magical nature only.
-
-## Thief Level Advancement
-
-  ------- ----------------------- ---------------- -------------- --------------
-  Level   XP Required for Level   Hit Dice (1d6)   To-Hit Bonus   Saving Throw
-  1       0                       1                0              14
-  2       1,250                   2                0              14
-  3       2,500                   3                +1             14
-  4       5,000                   4                +1             14
-  5       10,000                  5                +2             13
-  6       20,000                  6                +2             13
-  7       40,000                  7                +3             12
-  8       70,000                  8                +3             12
-  9       110,000                 9                +4             11
-  10      160,000                 10               +4             11
-  11      220,000                 10+2\*           +5             10
-  12      440,000                 10+4\*           +5             10
-  13      660,000                 10+6\*           +6             9
-  14      880,000                 10+8\*           +6             9
-  15      1,100,000               10+10\*          +7             9
-  16      1,320,000               10+12\*          +7             9
-  17      1,540,000               10+14\*          +8             8
-  18      1,760,000               10+16\*          +8             8
-  19      1,980,000               10+18\*          +9             8
-  20      2,200,000               10+20\*          +9             8
-  21+     2,420,000               10+22\*          +10            7
-  ------- ----------------------- ---------------- -------------- --------------
-
-\*Constitution hp adjustments no longer apply. Each level gained
-thereafter requires 220,000 XP and grants +2 hp.
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 220,000 XP and grants +2 hp.*
 
 # Magic & Spells
 
