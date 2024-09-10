@@ -2,6 +2,90 @@
 > [!NOTE]
 > *A fair-use amalgamation of OD&D (Attributes, Combat, & Cleric Spell Progression - ref. Swords & Wizardry), AD&amp;D 1e (Spells & Classes - ref. OSRIC), AD&D 2e (Thief - ref. For Gold & Glory), B/X (Procedures - ref. Old-School Essentials) and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the class descriptions, unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.*
 
+# Table of Contents
+- [Character Creation Quickstart](#character-creation-quickstart)
+  * [Roll Your Stats](#roll-your-stats)
+  * [Choose Your Class & Note Hit Die & Special Abilities](#choose-your-class--note-hit-die--special-abilities)
+  * [You Start at Level 1; Note XP Needed for Level 2](#you-start-at-level-1-note-xp-needed-for-level-2)
+  * [Note Your Saving Throw](#note-your-saving-throw)
+  * [Choose Alignment](#choose-alignment)
+  * [Choose a Character Race & Note Any Abilities](#choose-a-character-race--note-any-abilities)
+  * [Note Your Ability Score Modifiers](#note-your-ability-score-modifiers)
+  * [Roll Quick Equipment](#roll-quick-equipment)
+  * [Adventuring Gear Table](#adventuring-gear-table)
+  * [Note Your XP Bonus (If Any)](#note-your-xp-bonus-if-any)
+  * [Note Your Movement Speed](#note-your-movement-speed)
+  * [Check Any Special Abilities You Have](#check-any-special-abilities-you-have)
+  * [If You're A Magic-User, Roll for Spells](#if-youre-a-magic-user-roll-for-spells)
+  * [Magic-User 1<sup>st</sup> Level Starting Spells](#magic-user-1st-level-starting-spells)
+  * [Note a Motivation or Motto](#note-a-motivation-or-motto)
+- [Armor, Weapons, and Equipment](#armor-weapons-and-equipment)
+  * [Armor](#armor)
+  * [Weapons](#weapons)
+    + [Melee Weapons](#melee-weapons)
+    + [Missile Weapons](#missile-weapons)
+  * [Equipment](#equipment)
+    + [Clothing](#clothing)
+    + [Herbs](#herbs)
+    + [Livestock](#livestock)
+    + [Miscellaneous Equipment & Items](#miscellaneous-equipment--items)
+    + [Provisions](#provisions)
+    + [Religious Items](#religious-items)
+    + [Tack & Harness](#tack--harness)
+    + [Transport](#transport)
+- [How to Play](#how-to-play)
+  * [Dungeon Exploration](#dungeon-exploration)
+  * [Equipment Wear & Tear](#equipment-wear--tear)
+  * [Falling](#falling)
+  * [Gaining Experience & Levels](#gaining-experience--levels)
+  * [Healing](#healing)
+  * [Hirelings & Retainers](#hirelings--retainers)
+  * [Light & Vision](#light--vision)
+  * [NPC Spellcasting](#npc-spellcasting)
+  * [Wilderness Exploration](#wilderness-exploration)
+  * [Saving Throws](#saving-throws)
+  * [Time](#time)
+- [Combat](#combat)
+  * [Initiative & Order of Battle](#initiative--order-of-battle)
+  * [Damage & Death](#damage--death)
+  * [Attacking from Behind](#attacking-from-behind)
+  * [Cover](#cover)
+  * [Grappling](#grappling)
+  * [Invisible Opponents](#invisible-opponents)
+  * [Morale](#morale)
+  * [Movement Within Melee](#movement-within-melee)
+  * [Prone or Stunned Opponent](#prone-or-stunned-opponent)
+  * [Spacing & the Second Rank](#spacing--the-second-rank)
+  * [Subdual Damage](#subdual-damage)
+  * [Two-Handed Weapons & Two-Weapon Fighting](#two-handed-weapons--two-weapon-fighting)
+  * [Life Energy Levels & Level Drain](#life-energy-levels--level-drain)
+- [Multi-Classing & Dual-Classing](#multi-classing--dual-classing)
+  * [Multi-classing](#multi-classing)
+  * [Dual Classing](#dual-classing)
+- [Classes](#classes)
+  * [Cleric](#cleric)
+    + [Cleric Turn Undead Table](#cleric-turn-undead-table)
+    + [Cleric Level Advancement](#cleric-level-advancement)
+  * [Druid](#druid)
+    + [Druid Level Advancement](#druid-level-advancement)
+  * [Fighter](#fighter)
+    + [Fighter Level Advancement](#fighter-level-advancement)
+  * [Magic-User](#magic-user)
+    + [Magic-User Level Advancement](#magic-user-level-advancement)
+  * [Paladin](#paladin)
+    + [Paladin Turn Undead Table](#paladin-turn-undead-table)
+    + [Paladin Level Advancement](#paladin-level-advancement)
+  * [Ranger](#ranger)
+    + [Ranger Level Advancement](#ranger-level-advancement)
+  * [Thief](#thief)
+    + [Thief Level Advancement](#thief-level-advancement)
+- [Magic & Spells](#magic--spells)
+  * [Creating Magic Items](#creating-magic-items)
+  * [Memorizing Spells](#memorizing-spells)
+  * [Scribing Scrolls](#scribing-scrolls)
+  * [Spell Scrolls](#spell-scrolls)
+  * [Spell Lists](#spell-lists)
+
 # Character Creation Quickstart
 
 ## Roll Your Stats
@@ -183,7 +267,7 @@ The first number is your exploration speed, the second is your speed in combat.
 | Splint, Plate            | 60' (20')      | 30' (10')      |
 
 
-## Check Any Special Abilities You Have:
+## Check Any Special Abilities You Have
 
 - **Alertness**: A party with a Ranger is unlikely to be surprised, with only a 1-in-6 chance. A ranger surprises on 3-in-6.
 - **Backstab**: When attacking with surprise from behind, the Thief gains +4 to hit and inflicts double damage.
@@ -522,7 +606,7 @@ On gaining the requisite number of experience points, a character may increase i
 
 A character will recover 1hp per day of uninterrupted rest. 30 days of rest will return any character to full hp.
 
-## Hirelings and Retainers
+## Hirelings & Retainers
 
 Hirelings are unclassed zero level characters incapable of conventional advancement by level. We're using the rules & pricing for hirelings in *AD&D (OSRIC)*. Retainers are classed characters, initially of low level, but capable of level advancement, and both are available for hire by the PCs. The number of retainers available in a particular locale depends on the total population and its predisposition towards attracting adventurer types. The referee will inform you whether or not retainers can be found.
 
@@ -640,7 +724,7 @@ Only shortswords, spears, and polearms can be used three-abreast in a 10' area. 
 
 A weapon may be used to beat down, rather than kill, an opponent. Players must announce the intention to deal subdual damage before attacking, and all damage done to an opponent the players wish to subdue must be subdual damage (not lethal). Not all weapons can deal subdual damage. Subdual damage does not kill, and such points are recovered at a rate of 1hp/hour.
 
-## Two-Handed Weapons and Two-Weapon Fighting
+## Two-Handed Weapons & Two-Weapon Fighting
 
 Just as shields improve armor class by 1, fighting two-handed grants a +1 to damage rolls (except for weapons that can only be used two-handed, where this is already taken into account in the weapon's damage), and fighting with a weapon in each hand gives a +1 to hit. (Note that fighting with two weapons does not actually give two separate attacks; it just increases the likelihood of landing a successful blow.)
 
@@ -1165,93 +1249,7 @@ You are a figure in the shadows, an expert in stealth and delicate tasks. Locks,
 > -   **Climb Walls:** A Thief can scale sheer walls and surfaces without any gear, cling to ceilings, and perform other feats of climbing that would normally be impossible. The check is normally repeated every 10 feet.
 > -   **Detect Noise:** Replaces Listening at Doors and its base 1-in-6 chance (2-in-6 chance for elves & halflings).
 > -   **Read Languages:** The Thief may attempt to read languages and ciphers of a non-magical nature only.
-
-### Thief Level Advancement
-
-| Level | XP Required for Level | Hit Dice (1d6) | To-Hit Bonus | Saving Throw |
-|-------|-----------------------|----------------|---------------|--------------|
-| 1     | 0                     | 1              | 0             | 14           |
-| 2     | 1,250                 | 2              | 0             | 14           |
-| 3     | 2,500                 | 3              | +1            | 14           |
-| 4     | 5,000                 | 4              | +1            | 14           |
-| 5     | 10,000                | 5              | +2            | 13           |
-| 6     | 20,000                | 6              | +2            | 13           |
-| 7     | 40,000                | 7              | +3            | 12           |
-| 8     | 70,000                | 8              | +3            | 12           |
-| 9     | 110,000               | 9              | +4            | 11           |
-| 10    | 160,000               | 10             | +4            | 11           |
-| 11    | 220,000               | 10+2*          | +5            | 10           |
-| 12    | 440,000               | 10+4*          | +5            | 10           |
-| 13    | 660,000               | 10+6*          | +6            | 9            |
-| 14    | 880,000               | 10+8*          | +6            | 9            |
-| 15    | 1,100,000             | 10+10*         | +7            | 9            |
-| 16    | 1,320,000             | 10+12*         | +7            | 9            |
-| 17    | 1,540,000             | 10+14*         | +8            | 8            |
-| 18    | 1,760,000             | 10+16*         | +8            | 8            |
-| 19    | 1,980,000             | 10+18*         | +9            | 8            |
-| 20    | 2,200,000             | 10+20*         | +9            | 8            |
-| 21+   | 2,420,000             | 10+22*         | +10           | 7            |
-
-**Constitution hp adjustments no longer apply. Each level gained thereafter requires 220,000 XP and grants +2 hp.*
-
-# Magic & Spells
-
-## Creating Magic Items
-
-Potions are created by alchemists, with the more powerful potions
-usually requiring the help of a Magic-User. A Magic-User seeking to
-create potions must employ an alchemist. A Magic-User must be 9th level
-to create potions on their own, and 11th level to create other magic
-items.
-
-## Memorizing Spells
-
-Spell memorization requires a minimum rest period of 4 hours, which must
-be spent in a quiet place without interruption. Once this period has
-expired, it takes fifteen minutes per level to memorize spells; in other
-words, a character memorizing one 3rd, two 2nd and four 1st level spells
-would require a further (45+30+30+15+15+15+15=) two hours and forty-five
-minutes of memorization time. Spells, once cast, are lost from the
-casting character's memory and cannot be reused until the caster
-memorizes them again. (Exception: It is possible to memorize the same
-spell twice or even more times if the caster has sufficient spell
-slots.)
-
-## Scribing Scrolls
-
-Scrolls may be created by Clerics or Magic-Users at a cost of 500sp per
-level of the spell, and require a full week of work for each spell
-level. Magically-infused inks brewed by alchemists are the main
-component of this cost, and these may not be readily available outside
-large cities. A character cannot scribe a scroll based off another
-scroll.
-
-## Spell Scrolls
-
-It is not possible to memorize a spell from a scroll, although magic
-users may copy the spell from the scroll into their spell books, if they
-understand the spell. This process always erases the scroll. This is the
-primary means by which magic users will acquire new spells for their
-spell books.
-
-Alternatively, the spell may be cast directly from the scroll, in which
-case the scroll is erased as the spell is cast. In this case, it is not
-necessary for the caster to know the spell beforehand, and indeed it is
-possible to cast a spell from a scroll even if the caster does not know
-the spell or is of insufficient level to use the magic.
-
-In extreme cases (such as when a character casts a spell from a scroll
-well above the level he or she could normally memorize) the referee will
-assign a chance that the spell will fail.
-
-A character must be of the correct class to cast a spell from a scroll.
-Thus, only Clerics or Paladins may cast spells from clerical scrolls,
-only Druids or Rangers from druidic ones, and so on. (Exception: Thieves
-may attempt to cast arcane and phantasmal spells from scrolls.)
-
-## Spell Lists
-
-The spell lists & spells are as in *OSRIC*.-   **Read Languages:** The Thief may attempt to read languages and ciphers of a non-magical nature only.
+> -   **Read Languages:** The Thief may attempt to read languages and ciphers of a non-magical nature only.
 
 ### Thief Level Advancement
 
