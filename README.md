@@ -831,7 +831,7 @@ Most Fighters look forward to the day when their reputations will bring them int
 >
 > **Race**: Any
 
-**Bonus Attacks:** Fighters with melee weapons attack once per round at 1st to 6th levels (1/1 attacks); at 7th to 12^th^ levels, they attack thrice every two rounds (3/2 attacks); and at 13th or higher levels they attack twice per round (2/1 attacks). A partial additional attack (e.g. 3/2 attacks) means that the extra attack is taken on odd-numbered rounds in the combat sequence, hence two attacks on the first round, one on the second, two on the third and one on the fourth, if applicable.
+**Bonus Attacks:** Fighters with melee weapons attack once per round at 1st to 6th levels (1/1 attacks); at 7th to 12th levels, they attack thrice every two rounds (3/2 attacks); and at 13th or higher levels they attack twice per round (2/1 attacks). A partial additional attack (e.g. 3/2 attacks) means that the extra attack is taken on odd-numbered rounds in the combat sequence, hence two attacks on the first round, one on the second, two on the third and one on the fourth, if applicable.
 
 **Fighting the Unskilled**: Against creatures with 1 (8-sided) hit die or less, a Fighter makes one attack per level each round. A Fighter exercising multiple attacks departs from the normal initiative procedure. The Fighter will automatically attack first in the round unless fighting an opponent with multiple attacks of its own (in which case initiative should be rolled as normal). The Fighter's second attack in any given melee round will come in their usual place, and any further attacks will come last in the sequence.
 
@@ -875,4 +875,562 @@ Most Fighters look forward to the day when their reputations will bring them int
 | 20+   | 3,000,000             | 9+33*            | +19           | 2            |
 
 **Constitution hp adjustments no longer apply. Each level gained thereafter requires 250,000 XP and grants +3 hp.*
+
+Note: If a Fighter of extremely high level or with many bonuses "to hit" actually requires a negative roll to hit his or her target, the negative number needed may be converted to a positive and applied as additional damage to the automatic hit. Thus, for example, a 20th level Fighter with 18 strength and a +5 sword has a total to-hit bonus of +26. Against an AC 18 dragon, this would be an automatic hit *plus* 8 additional damage (26 to-hit -- AC 18).
+
+## Magic-User
+
+As a Magic-User, you are a figure of mystery and a student of mysteries, steeped in ancient and arcane knowledge. You have studied long hours deep into the candlelit nights, delving into the parchment pages of cobweb-covered magic tomes, learning the intricacies of magical circles and runes, the strange significances of the stars and moons, the disquieting theories of mad philosophers, and above all, the casting of magic spells. You can be a truly devastating opponent as long as your fellow adventurers protect you from physical combat, in which you are the weakest of all the character classes: completely untrained in the use of armor, barely adequate with even the simplest weapons, and having fewer hit points than most other members of an adventuring expedition. You are not limited to the role of providing the party with offensive spells, though, for your spellbook provides an array of other spells that can be critical for surviving the perils of dungeons, lost temples, and other such places where you might venture in search of treasure and knowledge. If you succeed in such forays into the wild and dangerous places of the world, you might eventually rise to such heights of power that you can build a mystically protected tower for your researches and create fabulous magic items. Such great Archmages can sway the politics of kingdoms, commanding respect and fear across the realms.
+
+> **Prime Attribute**: Intelligence, 13+ (+5% experience bonus)
+>
+> **Hit Dice**: 1d4/level (Gains 1hp/level after 11th level)
+>
+> **Armor/Shield Permitted**: None
+>
+> **Weapons Permitted**: Dagger, staff, and darts.
+>
+> **Race**: Elves, Half-elves, and Humans may be Magic-Users
+
+**Acquiring New Spells**: A Magic-User will automatically receive one new spell of the highest level he or she may cast when reaching a new level of spell (i.e. upon reaching 3rd level, the Magic-User will automatically receive one 2nd-level spell; upon reaching 5th level, one 3rd-level spell). The rest must be found and copied into the mage's spellbook from dungeons or musty libraries in the world, or painstakingly researched.
+
+To copy a spell from a scroll (or spellbook), the mage must first be able to read the spell (i.e. by casting *read magic*). If the mage understands the spell (see table below), he or she may then transcribe the spell into his or her own spellbook, which takes 1 hour per level of the spell. If the spell is on a scroll, this process always erases the scroll. If the roll to understand the spell fails, the Magic-User may attempt to understand it again if a) they gain a level, or b) they come across a different instance of the spell.
+
+To research a new spell, the player should describe in detail the spell they wish to create and the effects it has. The referee will then decide if the spell can be created and, if so, what the spell level will be. The spells in *OSRIC* are "pre-approved" and have been invented in the world already. To research, the Magic-User must spend two weeks and 2,000sp per level of the spell. If the research fails (see the table), the money and time invested are lost. Future attempts require half the money and time investment (i.e. 2nd try: 1 week+ 1,000sp per spell level, 3rd try: 3 days+500sp, etc.).
+
+| Intelligence Score | Chance to Understand Spells | Chance of Successful Research |
+|---------------------|-----------------------------|-------------------------------|
+| 9                   | 35%                         | 40%                           |
+| 10-12               | 45%                         | 50%                           |
+| 13-14               | 55%                         | 70%                           |
+| 15-16               | 65%                         | 75%                           |
+| 17                  | 75%                         | 85%                           |
+| 18                  | 85%                         | 90%                           |
+| 19                  | 90%                         | 95%                           |
+
+
+**Creating Magical Items:** Magic-Users can create spell scrolls at any level, potions at 9th level, and magic items at 11th level. See "Magic & Spells" later for details and costs.
+
+**Saving Throw Bonus:** Magic-Users gain a bonus of +2 on all saving throw rolls against spells, including spells from magic wands and staffs.
+
+**Spell Casting:** A Magic-User owns a book of spells, which does not necessarily include all of the spells on the standard lists. Reading from this book, Magic-Users force selected spell formulae into their minds, "preparing" as many spells as the Magic-User can mentally sustain. (It is possible to prepare a spell multiple times using the available "slots" in the Magic-User's memory and mental capability.) Once a prepared spell is cast, it disappears from the Magic-User's ability to cast, until it is prepared again. Magic-Users may also cast spells from arcane magical scrolls, which consumes that portion of the scroll.
+
+**Understanding Spells:** A Magic-User can understand a limited number of spells per level, based on his or her Intelligence score (see Character Creation pages). For example, a Magic-User of 3rd level with an Intelligence of 14 can understand and have in his or her spellbook a maximum of 24 spells in total.
+
+**Wizard's Tower (11th):** At 11th level, a Magic-User gains the title of "Wizard" and can build a stronghold to contain the necessary libraries and laboratories of a high-level mage. Such a powerful sorcerer attracts a mixed bag of mercenaries, strange servants (some with odd abilities and deformities), and perhaps even a few monsters. This colorful crew swears fealty and serves the wizard with considerable (but not unlimited) loyalty. In general, such a freehold will encompass a small territory around the tower as well---whatever quantity of wilderness the Magic-User chooses to tame and protect.
+
+### Magic-User Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d4) | To-Hit Bonus | Saving Throw | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|-------|-----------------------|----------------|---------------|--------------|---|---|---|---|---|---|---|---|---|
+| 1     | 0                     | 1              | 0             | 13           | 1 | - | - | - | - | - | - | - | - |
+| 2     | 2,400                 | 2              | 0             | 13           | 2 | - | - | - | - | - | - | - | - |
+| 3     | 4,800                 | 3              | 0             | 13           | 2 | 1 | - | - | - | - | - | - | - |
+| 4     | 10,250                | 4              | 0             | 12           | 3 | 2 | - | - | - | - | - | - | - |
+| 5     | 22,000                | 5              | 0             | 12           | 4 | 2 | 1 | - | - | - | - | - | - |
+| 6     | 40,000                | 6              | +1            | 11           | 4 | 3 | 2 | - | - | - | - | - | - |
+| 7     | 60,000                | 7              | +1            | 11           | 4 | 3 | 2 | 1 | - | - | - | - | - |
+| 8     | 80,000                | 8              | +1            | 11           | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9     | 140,000               | 9              | +2            | 10           | 4 | 4 | 3 | 2 | 1 | - | - | - | - |
+| 10    | 250,000               | 10             | +2            | 10           | 4 | 4 | 3 | 2 | 2 | - | - | - | - |
+| 11    | 375,000               | 11             | +3            | 9            | 4 | 4 | 4 | 3 | 3 | - | - | - | - |
+| 12    | 750,000               | 11+1*          | +3            | 9            | 5 | 4 | 4 | 3 | 3 | 1 | - | - | - |
+| 13    | 1,125,000            | 11+2*          | +3            | 9            | 5 | 5 | 4 | 3 | 3 | 2 | - | - | - |
+| 14    | 1,500,000            | 11+3*          | +4            | 8            | 5 | 5 | 5 | 4 | 4 | 2 | 1 | - | - |
+| 15    | 1,875,000            | 11+4*          | +4            | 8            | 5 | 5 | 5 | 4 | 4 | 3 | 2 | - | - |
+| 16    | 2,250,000            | 11+5*          | +5            | 7            | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | - |
+| 17    | 2,625,000            | 11+6*          | +5            | 7            | 5 | 5 | 5 | 5 | 5 | 4 | 3 | 2 | - |
+| 18    | 3,000,000            | 11+7*          | +5            | 7            | 5 | 5 | 5 | 5 | 5 | 4 | 3 | 2 | 1 |
+| 19    | 3,375,000            | 11+8*          | +6            | 6            | 5 | 5 | 5 | 5 | 5 | 5 | 4 | 3 | 1 |
+| 20    | 3,750,000            | 11+9*          | +6            | 6            | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 4 | 3 | 2 |
+| 21    | 4,125,000            | 11+10*         | +7            | 5            | 6 | 6 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 2 |
+| 22    | 4,500,000            | 11+11*         | +7            | 5            | 6 | 6 | 6 | 6 | 6 | 5 | 5 | 5 | 4 | 2 |
+| 23    | 4,875,000            | 11+12*         | +7            | 5            | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
+| 24    | 5,250,000            | 11+13*         | +7            | 5            | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
+|-------|-----------------------|----------------|---------------|--------------|---|---|---|---|---|---|---|---|---|
+
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 375,000 XP and grants +1 hp.*
+
+## Paladin
+
+As a Paladin, you are a resolute warrior against Chaos and evil, and a stalwart defender of Law. You might resemble the "knight in shining armor," or you might be a grim, deadly veteran of the dark and desperate war against the foul powers of Chaos. In either case, you are wholly dedicated to the eradication of Chaos and the protection of civilization. You defend the weak from tyranny, fight injustice where you find it, and hunt down those who are tainted with the demonic mark of Chaos. Most Paladins are members of an order of knights or are attached to the service of a temple of Law, although some of them operate as "knights errant" following the guidance of higher powers toward the places where Law battles Chaos.
+
+> **Prime Attribute**: Strength, 13+ (+5% experience bonus)
+>
+>  **Hit Dice**: 1d8/level (Gains 2hp/level after 9th level)
+>
+> **Armor/Shield Permitted**: Any
+>
+> **Weapons Permitted**: Any
+>
+> **Race**: Only Humans may be Paladins.
+
+**Alignment:** A Paladin is a paragon of righteousness sworn to be, and always to remain, Lawful. If this vow is ever breached, the Paladin must atone and perform penance to be decided by a powerful Lawful NPC Cleric---unless the breach was intentional, in which case the Paladin instantly loses his or her enhanced status as a Paladin and may never regain it. Such a "fallen Paladin" is in all respects a Fighter, with no special powers, forever.
+
+**Cure Disease:** Paladins can cure disease (as the clerical spell) by touch, once per week. Paladins of higher than 5th level may do so twice per week, and those higher than 10th level thrice per week. Paladins themselves are completely immune to disease.
+
+**Divine Favor:** Although Paladins do not receive a class-based saving throw bonus, they have better saving throw chances than any other character class due to the divine influence of Law.
+
+**Detect Evil:** A Paladin may detect evil at any range up to 60 ft at will, if he or she concentrates on doing so in the right general direction.
+
+**Protection from Evil:** A Paladin radiates an aura within a 10' radius, equivalent to the clerical spell *protection from evil*.
+
+**Lay on Hands:** A Paladin can "lay on hands" once per day to cure the touched creature 2hp per Paladin level.
+
+**Paladin Vows:** See Alignment, above. Also, Paladins may own 1 suit of magic armor, 1 magic shield, and up to 3 magic weapons, but no more than 4 additional magic items. Paladins must give away 10% of any treasure received to some Lawful Good cause, and if any remains after paying costs (like maintaining equipment or paying servants' wages or constructing a small castle), that surplus must likewise be donated. Paladins will not associate with characters who are not Lawful save under very exceptional circumstances.
+
+**Turn Undead (3rd):** Paladins of 3rd level and higher gain the ability to turn undead as a Lawful Cleric does, but as a Cleric of two levels lower than the Paladin's level (see table, next page).
+
+**Summon Warhorse (4th):** At 4th level, once every ten years, the Paladin may summon a special Paladin's Warhorse, a heavy warhorse with enhanced hit points, intelligence and movement speed.
+
+**Bonus Attacks (8th):** Paladins gain additional attacks as Fighters do, but less swiftly. A Paladin has one attack at 1<sup>st</sup> to 7th level, 3/2 attacks at 8th to 14th level, and two attacks at 15th level and above.
+
+**Clerical Spellcasting (9th):** Paladins gain the ability to cast certain Cleric spells at 9th level (see table, below).
+
+### Paladin Turn Undead Table
+
+| Type of Undead   | Example    | Paladin Level |
+|------------------|------------|---------------|
+|                  |            | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11-15 | 16-20 | 21+ |
+| Type 1           | Skeleton   | 10 | 7 | 4 | T | T | D | D | D | D | D | D |
+| Type 2           | Zombie     | 13 | 10 | 7 | T | T | D | D | D | D | D | D |
+| Type 3           | Ghoul      | 16 | 13 | 10 | 4 | T | T | D | D | D | D | D |
+| Type 4           | Shadow     | 19 | 16 | 13 | 7 | 4 | T | T | D | D | D | D |
+| Type 5           | Wight      | 20 | 19 | 16 | 10 | 7 | 4 | T | T | D | D | D |
+| Type 6           | Ghast      | - | 20 | 19 | 13 | 10 | 7 | 4 | T | T | D | D |
+| Type 7           | Wraith     | - | - | 20 | 16 | 13 | 10 | 7 | 4 | T | T | D |
+| Type 8           | Mummy      | - | - | - | 19 | 16 | 13 | 10 | 7 | 4 | T | D |
+| Type 9           | Spectre    | - | - | - | 20 | 19 | 16 | 13 | 10 | 7 | T | T |
+| Type 10          | Vampire    | - | - | - | - | 20 | 19 | 16 | 13 | 10 | 7 | 4 |
+| Type 11          | Ghost      | - | - | - | - | - | 20 | 19 | 16 | 13 | 10 | 7 |
+| Type 12          | Lich       | - | - | - | - | - | - | 20 | 19 | 16 | 13 | 10 |
+| Type 13          | Fiend      | - | - | - | - | - | - | - | 20 | 19 | 16 | 13 |
+
+T = Automatically turned. D = Automatically destroyed.
+
+### Paladin Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d10) | To-Hit Bonus | Saving Throw | Spell Casting Level | 1 | 2 | 3 | 4 |
+|-------|-----------------------|------------------|---------------|--------------|---------------------|---|---|---|---|
+| 1     | 0                     | 1                | 0             | 12           | 0                   | - | - | - | - |
+| 2     | 2,550                 | 2                | +1            | 12           | 0                   | - | - | - | - |
+| 3     | 5,500                 | 3                | +2            | 12           | 0                   | - | - | - | - |
+| 4     | 12,500                | 4                | +3            | 11           | 0                   | - | - | - | - |
+| 5     | 25,000                | 5                | +4            | 10           | 0                   | - | - | - | - |
+| 6     | 45,000                | 6                | +5            | 10           | 0                   | - | - | - | - |
+| 7     | 95,000                | 7                | +6            | 9            | 0                   | - | - | - | - |
+| 8     | 175,000               | 8                | +7            | 8            | 0                   | - | - | - | - |
+| 9     | 325,000               | 9                | +8            | 7            | 1                   | 1 | - | - | - |
+| 10    | 600,000               | 9+3*             | +9            | 7            | 2                   | 2 | - | - | - |
+| 11    | 1,000,000             | 9+6*             | +10           | 6            | 3                   | 2 | 1 | - | - |
+| 12    | 1,350,000             | 9+9*             | +11           | 5            | 4                   | 2 | 2 | - | - |
+| 13    | 1,700,000             | 9+12*            | +12           | 4            | 5                   | 2 | 2 | 1 | - |
+| 14    | 2,050,000             | 9+15*            | +13           | 4            | 6                   | 3 | 2 | 1 | - |
+| 15    | 2,400,000             | 9+18*            | +14           | 3            | 7                   | 3 | 2 | 1 | 1 |
+| 16    | 2,750,000             | 9+21*            | +15           | 3            | 8                   | 3 | 3 | 1 | 1 |
+| 17    | 3,100,000             | 9+24*            | +16           | 2            | 8                   | 3 | 3 | 2 | 1 |
+| 18    | 3,450,000             | 9+27*            | +17           | 2            | 8                   | 3 | 3 | 3 | 1 |
+| 19    | 3,800,000             | 9+30*            | +18           | 2            | 8                   | 3 | 3 | 3 | 2 |
+| 20    | 4,150,000             | 9+33*            | +19           | 2            | 8                   | 3 | 3 | 3 | 3 |
+| 21    | 4,500,000             | 9+36*            | +19           | 2            | 8                   | 4 | 3 | 3 | 3 |
+| 22    | 4,850,000             | 9+39*            | +19           | 2            | 8                   | 4 | 4 | 3 | 3 |
+| 23    | 5,200,000             | 9+42*            | +19           | 2            | 8                   | 4 | 4 | 4 | 3 |
+| 24    | 5,550,000             | 9+45*            | +19           | 2            | 8                   | 4 | 4 | 4 | 4 |
+|-------|-----------------------|------------------|---------------|--------------|---------------------|---|---|---|---|
+
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 350,000 XP and grants +3 hp.*
+
+## Ranger
+
+You and your fellow Rangers are the inheritors of ancient scholarship, students of forgotten skills and lore passed on from teacher to student over the generations. The Rangers retreated to the wilderness long ago; they seldom visit the decadent, glittering cities, for these are places that have turned aside from much of the lore the Rangers protect. As a Ranger, you are well versed in the subtlety of the wilderness, and you are a dangerous opponent in battle. When you reach higher level, your studies and understanding of ancient lore will have developed to the point where you can even cast spells. You are a guardian of civilization and a protector of the weak, hunting the creatures of chaos in the wild places where they lurk. You take the battle directly to the enemy, in its very lair.
+
+> **Prime Attribute**: Strength, 13+ (+5% experience bonus)
+>
+>  **Hit Dice**: 2d8 at 1st level, 1d8/level thereafter (Gains 2hp/level after 9th level)
+>
+> **Armor/Shield Permitted**: Any
+>
+> **Weapons Permitted**: Any
+>
+> **Race**: Only Humans may be Rangers.
+
+**Alertness:** Rangers are less likely to be surprised (1-in-6), and more likely to surprise others (3-in-6) than other character classes.
+
+**Alignment:** Rangers must be, and remain, Lawful in alignment, or they lose all Ranger abilities and are treated as ordinary Fighters.
+
+**Damage Bonus vs Humanoids:** Rangers receive a +1 to melee damage per Ranger level against evil humanoid or giantish opponents (including such creatures as orcs, goblins, and giants, for example). Thus, a 3rd level Ranger would receive +3 damage per hit against these creatures.
+
+**Lone Ranger:** Until 8th Level & the title "Ranger Knight," a Ranger may not hire or accept followers of any kind. A maximum of three Rangers may travel or operate together at any one time. Rangers travel light and may not keep more treasure than they (or their steed) can carry.
+
+**Magic Items:** Rangers can use any magic items that can normally be used by Fighters.
+
+**Tracking:** Rangers are able to track down other creatures in the wild, in cities, and even underground.
+
+> • Outdoor Tracking: Outdoors, the basic chance for successful tracking (on a day-to-day basis) is 90%, modified by a --10% for each day old the tracks are, and modified by --10% (for the entire effort thereafter) for each day of rain (or snow) that has fallen on the trail.
+>
+> • Underground and City Tracking: Tracking in the city (any urban or populated area) or underground, makes it considerably harder to find and follow a trail. First, the beginning of the trail must be no more than an hour old. The base chance to track is 65%, and each time the trail changes (as described below), there is a chance for the Ranger to lose the trail and be unable to track it further.
+
+  | Trail Change                           | Chance to Lose Trail |
+  |-------------------------------------------------------|---------------------------|
+  | Turns down a side passage:                              | 25% chance to lose trail |
+  | Goes through a door:                                    | 35% chance to lose trail |
+  | Goes up or down through a trapdoor or ladder:           | 40% chance to lose trail |
+  | Climbs a wall up or down (including pits and shafts):   | 50% chance to lose trail |
+
+**Bonus Attacks (8th):** Rangers gain additional attacks as Fighters do, but less swiftly. A Ranger has one attack at 1^st^ to 7th level, 3/2 attacks at 8th to 14th level, and two attacks at 15th and above.
+
+**Spell Casting (8th):** At eighth level, Rangers receive limited spell powers, drawn from the Druid and Magic-User spell lists according to the table given hereafter.
+
+**Fortress (9th):** Rangers of 9th level or higher may build a fortress in the wilderness to house the character's growing number of loyal retainers & followers. When the fortress is completed, the Ranger's reputation draws a number of new followers, as well as peasants seeking a safe place to settle. Roll 2d12 to determine the number of followers. Determine the class of each in this order: half of the total will be Fighters, a quarter of them will be Clerics, one-fifth of them will be Magic-Users, and if there are more than 20 followers, one of them will be a Neutral-aligned Thief. The followers will be at least second level; for each there is a 25% chance to add 1d4 to the base second level. Also, for each of these followers, there is a 2% chance that the follower is actually a highly unusual type instead of whatever the dice originally indicated. Roll 1d6 on the table below to determine the type:
+
+-   1-2 = Another Ranger (level 1d6+1)
+-   3-4 = A lycanthrope (werebear or wereboar)
+-   5 = A mated pair of unicorns
+-   6 = A pegasus
+
+**Scrying Device Use (10th):** Rangers of 10th level or higher may use crystal balls and other such devices that permit magical scrying.
+
+### Ranger Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d8) | To-Hit Bonus | Saving Throw | Spell Casting Level | D1 | D2 | D3 | MU1 | MU2 |
+|-------|-----------------------|----------------|---------------|--------------|---------------------|---|---|---|---|---|
+| 1     | 0                     | 2              | 0             | 15           | 0                   | - | - | - | - | - |
+| 2     | 2,250                 | 3              | +1            | 15           | 0                   | - | - | - | - | - |
+| 3     | 4,500                 | 4              | +2            | 14           | 0                   | - | - | - | - | - |
+| 4     | 9,500                 | 5              | +3            | 14           | 0                   | - | - | - | - | - |
+| 5     | 20,000                | 6              | +4            | 12           | 0                   | - | - | - | - | - |
+| 6     | 40,000                | 7              | +5            | 12           | 0                   | - | - | - | - | - |
+| 7     | 90,000                | 8              | +6            | 11           | 0                   | - | - | - | - | - |
+| 8     | 150,000               | 9              | +7            | 11           | 1                   | 1 | - | - | - | - |
+| 9     | 225,000               | 10             | +8            | 9            | 1                   | 1 | - | - | 1 | - |
+| 10    | 325,000               | 11             | +9            | 9            | 2                   | 2 | - | - | 1 | - |
+| 11    | 650,000               | 11+2*          | +10           | 8            | 2                   | 2 | - | - | 2 | - |
+| 12    | 975,000               | 11+4*          | +11           | 8            | 3                   | 2 | 1 | - | 2 | - |
+| 13    | 1,300,000             | 11+6*          | +12           | 6            | 3                   | 2 | 1 | - | 2 | 1 |
+| 14    | 1,625,000             | 11+8*          | +13           | 6            | 4                   | 2 | 2 | - | 2 | 1 |
+| 15    | 1,950,000             | 11+10*         | +14           | 5            | 4                   | 2 | 2 | - | 2 | 2 |
+| 16    | 2,275,000             | 11+12*         | +15           | 5            | 5                   | 2 | 2 | 1 | 2 | 2 |
+| 17    | 2,600,000             | 11+14*         | +16           | 4            | 5                   | 2 | 2 | 2 | 2 | 2 |
+| 18    | 2,925,000             | 11+16*         | +17           | 4            | 6                   | 3 | 2 | 2 | 2 | 2 |
+| 19    | 3,250,000             | 11+18*         | +18           | 3            | 6                   | 3 | 2 | 2 | 3 | 2 |
+| 20    | 3,575,000             | 11+20*         | +19           | 3            | 6                   | 3 | 3 | 2 | 3 | 2 |
+| 21    | 3,900,000             | 11+22*         | +20           | 3            | 6                   | 3 | 3 | 2 | 3 | 3 |
+| 22    | 4,225,000             | 11+24*         | +20           | 3            | 6                   | 3 | 3 | 3 | 3 | 3 |
+| 23    | 4,550,000             | 11+26*         | +20           | 3            | 6                   | 4 | 3 | 3 | 3 | 3 |
+| 24    | 4,875,000             | 11+28*         | +20           | 3            | 6                   | 4 | 3 | 3 | 4 | 3 |
+
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 325,000 XP and grants +2 hp.*
+
+## Thief
+
+You are a figure in the shadows, an expert in stealth and delicate tasks. Locks, traps, and scouting are your trade; you are the eyes and ears of the adventuring party, the one who handles the perils of the dungeon itself. In many ways, you are a scholar of the world; in the course of your profession you pick up knowledge about languages and even magic. True, in combat you are not the equal of armored Fighters or Clerics, but they rely on your knowledge and specialized skills to get them safely into and out of the dangerous places where treasure is to be found. You are the guide; the scout; and when necessary, the deadly blade that strikes from the shadows without warning. In your profession, it takes great skill to survive—the life expectancy of most Thieves is very short. However, if you rise to high level, your reputation in the hidden community of tomb robbers and alley skulkers will attract followers to your side, often enough allies to place you in power as a guildmaster of Thieves. A high-level Thief is a deadly opponent, for such an individual has learned subtlety and survival in the game's most difficult profession.
+
+> **Prime Attribute**: Dexterity, 13+ (+5% experience bonus)
+>
+>  **Hit Dice**: 1d6/level (Gains 2hp/level after 10th level)
+>
+> **Armor/Shield Permitted**: Padded, leather, fur armor; no shield.
+>
+> **Weapons Permitted**: Any, but magical weapons are limited to daggers and swords.
+>
+> **Race**: Any
+
+**Alignment:** Thieves must be of Neutral or Chaotic alignment.
+
+**Backstab:** When attacking with surprise, from behind, with a melee weapon, the attack is made at +4 to hit and inflicts double damage. At levels 6-8, damage is tripled; at levels 9-12, damage is quadrupled; at level 13+, damage is quintupled. Damage modifiers (such as those pertaining to strength or magic) are not multiplied.
+
+**Saving Throw Bonus:** Thieves gain a +2 bonus on saving throws against devices, including traps, magical wands or staffs, and other magical devices.
+
+**Thieves' Cant:** Thieves have their own language.
+
+**Thieves' Guild (9th):** At 9th level, a Thief is well known enough to assemble a small guild of Thieves, attracting a shadowy band of sneaks, thugs, and other unsavory characters into his or her service. Thieves' guilds tend to be fronts for illicit or questionable activity regardless of alignment. Thieves usually attract a gang of followers appropriate to their alignment who are generally loyal, but not particularly devoted.
+
+**Use Scrolls (10th):** At 10th level, Thieves can use magical and clerical scrolls. However, this casting is not always successful. The Thief should roll against his or her intelligence as a Magic-User to understand the scroll, and if the score shown on the die is insufficient for the Thief to cast the spell, then the casting will fail, likely having some entirely unexpected effect.
+
+**Thieving Skills:** Thieves are preternaturally good at certain skills. Roll the number listed or lower on a 1d20 to succeed. Add your Dex mod to * skills. At 1st level, you have 12 points to distribute among your skills (no more than 6 to one single skill). At each level, you gain an additional 6 points to distribute (no more than 3 to a single skill each level). No skill can be raised above 19, including adjustments for dexterity, race, and armor. The referee will always roll Move Silently, Hide in Shadows, and Detect Noise checks. The starting values are as follows:
+
+-   \*Pick Pockets: 3
+-   \*Open Locks: 2
+-   \*Find/Remove Traps: 1
+-   \*Move Silently: 2
+-   \*Hide in Shadows: 1
+-   Climb Walls: 12
+-   Detect Noise: 3
+-   Read Languages: 0
+
+> -   **Pick Pockets:** If the Thief's pick pockets check fails by 4 or more, then his or her attempt has been discovered and the intended victim will almost always take hostile action.
+> -   **Open Locks:** Thieves can pick any mechanical locking mechanism requiring keys and/or finesse to unlock. Picking a lock takes 1 turn. Failure indicates the attempt is impossible until the Thief increases in experience level. Picking locks requires suitable tools. Improvised tools and stressful or awkward positions apply penalties as set by the referee.
+> -   **Find/Remove Traps:** Thieves' expertise with small, complex mechanisms allows them to find and remove treasure traps or other small traps with accessible mechanics. Other classes do not have the expertise to attempt this feat. On a dice roll of 20 the trap is automatically sprung. Removing or disarming a trap requires suitable tools. Improvised tools and stressful or awkward positions apply penalties as set by the referee. Thieves can detect and remove magical traps, but the chance of success is halved. PCs of all classes may try to find or remove any trap by describing their actions (e.g. poking a dagger in a lock, pouring water over a floor, etc.). In this way, it is possible to find, bypass, or disable traps without a roll.
+> -   **Move Silently:** Thieves have the skill to move *completely* *silently*. A Thief who fails their roll to move silently is still assumed to be moving quietly; thus, the normal surprise rules apply.
+> -   **Hide in Shadows:** Some shadow must be present for this ability to be used, but if the check is successful the Thief is effectively invisible until he makes an attack or moves from the shadows. The ability can also be used to blend in with a crowd of people rather than disappear into shadows. Infravision does not reveal a hidden Thief.
+> -   **Climb Walls:** A Thief can scale sheer walls and surfaces without any gear, cling to ceilings, and perform other feats of climbing that would normally be impossible. The check is normally repeated every 10 feet.
+> -   **Detect Noise:** Replaces Listening at Doors and its base 1-in-6 chance (2-in-6 chance for elves & halflings).
+> ## Thief
+
+You are a figure in the shadows, an expert in stealth and delicate
+tasks. Locks, traps, and scouting are your trade; you are the eyes and
+ears of the adventuring party, the one who handles the perils of the
+dungeon itself. In many ways, you are a scholar of the world; in the
+course of your profession you pick up knowledge about languages and even
+magic. True, in combat you are not the equal of armored Fighters or
+Clerics, but they rely on your knowledge and specialized skills to get
+them safely into and out of the dangerous places where treasure is to be
+found. You are the guide; the scout; and when necessary, the deadly
+blade that strikes from the shadows without warning. In your profession,
+it takes great skill to survive---the life expectancy of most Thieves is
+very short. However, if you rise to high level, your reputation in the
+hidden community of tomb robbers and alley skulkers will attract
+followers to your side, often enough allies to place you in power as a
+guildmaster of Thieves. A high-level Thief is a deadly opponent, for
+such an individual has learned subtlety and survival in the game's most
+difficult profession.
+
++-----------------------------------------------------------------------+
+| **Prime Attribute**: Dexterity, 13+ (+5% experience bonus)            |
+|                                                                       |
+| **Hit Dice**: 1d6/level (Gains 2hp/level after 10th level)            |
+|                                                                       |
+| **Armor/Shield Permitted**: Padded, leather, fur armor; no shield.    |
+|                                                                       |
+| **Weapons Permitted**: Any, but magical weapons are limited to        |
+| daggers and swords.                                                   |
+|                                                                       |
+| **Race**: Any                                                         |
++-----------------------------------------------------------------------+
+
+**Alignment:** Thieves must be of Neutral or Chaotic alignment.
+
+**Backstab**: When attacking with surprise, from behind, with a melee
+weapon, the attack is made at +4 to hit and inflicts double damage. At
+levels 6-8, damage is tripled; at levels 9-12, damage is quadrupled; at
+level 13+, damage is quintupled. Damage modifiers (such as those
+pertaining to strength or magic) are not multiplied.
+
+**Saving Throw Bonus:** Thieves gain a +2 bonus on saving throws against
+devices, including traps, magical wands or staffs, and other magical
+devices.
+
+**Thieves' Cant:** Thieves have their own language.
+
+**Thieves' Guild (9th):** At 9th level, a Thief is well known enough to
+assemble a small guild of Thieves, attracting a shadowy band of sneaks,
+thugs, and other unsavory characters into his or her service. Thieves'
+guilds tend to be fronts for illicit or questionable activity regardless
+of alignment. Thieves usually attract a gang of followers appropriate to
+their alignment who are generally loyal, but not particularly devoted.
+
+**Use Scrolls (10th)**: At 10th level, Thieves can use magical and
+clerical scrolls. However, this casting is not always successful. The
+Thief should roll against his or her intelligence as a Magic-User to
+understand the scroll, and if the score shown on the die is insufficient
+for the Thief to cast the spell, then the casting will fail, likely
+having some entirely unexpected effect.
+
+**Thieving Skills:** Thieves are preternaturally good at certain skills.
+Roll the number listed or lower on a 1d20 to succeed. Add your Dex mod
+to \* skills. At 1st level, you have 12 points to distribute among your
+skills (no more than 6 to one single skill). At each level, you gain an
+additional 6 points to distribute (no more than 3 to a single skill each
+level). No skill can be raised above 19, including adjustments for
+dexterity, race, and armor. The referee will always roll Move Silently,
+Hide in Shadows, and Detect Noise checks. The starting values are as
+follows:
+
+<div>
+
+-   \*Pick Pockets: 3
+-   \*Open Locks: 2
+-   \*Find/Remove Traps: 1
+-   \*Move Silently: 2
+-   \*Hide in Shadows: 1
+-   Climb Walls: 12
+-   Detect Noise: 3
+-   Read Languages: 0
+
+</div>
+
+-   **Pick Pockets:** If the Thief's pick pockets check fails by 4 or
+    more, then his or her attempt has been discovered and the intended
+    victim will almost always take hostile action.
+-   **Open Locks:** Thieves can pick any mechanical locking mechanism
+    requiring keys and/or finesse to unlock. Picking a lock takes 1
+    turn. Failure indicates the attempt is impossible until the Thief
+    increases in experience level. Picking locks requires suitable
+    tools. Improvised tools and stressful or awkward positions apply
+    penalties as set by the referee.
+-   **Find/Remove Traps:** Thieves' expertise with small, complex
+    mechanisms allows them to find and remove treasure traps or other
+    small traps with accessible mechanics. Other classes do not have the
+    expertise to attempt this feat. On a dice roll of 20 the trap is
+    automatically sprung. Removing or disarming a trap requires suitable
+    tools. Improvised tools and stressful or awkward positions apply
+    penalties as set by the referee. Thieves can detect and remove
+    magical traps, but the chance of success is halved. PCs of all
+    classes may try to find or remove any trap by describing their
+    actions (e.g. poking a dagger in a lock, pouring water over a floor,
+    etc.). In this way, it is possible to find, bypass, or disable traps
+    without a roll.
+-   **Move Silently:** Thieves have the skill to move *completely*
+    *silently*. A Thief who fails their roll to move silently is still
+    assumed to be moving quietly; thus, the normal surprise rules apply.
+-   **Hide in Shadows:** Some shadow must be present for this ability to
+    be used, but if the check is successful the Thief is effectively
+    invisible until he makes an attack or moves from the shadows. The
+    ability can also be used to blend in with a crowd of people rather
+    than disappear into shadows. Infravision does not reveal a hidden
+    Thief.
+-   **Climb Walls:** A Thief can scale sheer walls and surfaces without
+    any gear, cling to ceilings, and perform other feats of climbing
+    that would normally be impossible. The check is normally repeated
+    every 10 feet.
+-   **Detect Noise:** Replaces Listening at Doors and its base 1-in-6
+    chance (2-in-6 chance for elves & halflings).
+-   **Read Languages:** The Thief may attempt to read languages and
+    ciphers of a non-magical nature only.
+
+## Thief Level Advancement
+
+  ------- ----------------------- ---------------- -------------- --------------
+  Level   XP Required for Level   Hit Dice (1d6)   To-Hit Bonus   Saving Throw
+  1       0                       1                0              14
+  2       1,250                   2                0              14
+  3       2,500                   3                +1             14
+  4       5,000                   4                +1             14
+  5       10,000                  5                +2             13
+  6       20,000                  6                +2             13
+  7       40,000                  7                +3             12
+  8       70,000                  8                +3             12
+  9       110,000                 9                +4             11
+  10      160,000                 10               +4             11
+  11      220,000                 10+2\*           +5             10
+  12      440,000                 10+4\*           +5             10
+  13      660,000                 10+6\*           +6             9
+  14      880,000                 10+8\*           +6             9
+  15      1,100,000               10+10\*          +7             9
+  16      1,320,000               10+12\*          +7             9
+  17      1,540,000               10+14\*          +8             8
+  18      1,760,000               10+16\*          +8             8
+  19      1,980,000               10+18\*          +9             8
+  20      2,200,000               10+20\*          +9             8
+  21+     2,420,000               10+22\*          +10            7
+  ------- ----------------------- ---------------- -------------- --------------
+
+\*Constitution hp adjustments no longer apply. Each level gained
+thereafter requires 220,000 XP and grants +2 hp.
+
+# Magic & Spells
+
+## Creating Magic Items
+
+Potions are created by alchemists, with the more powerful potions
+usually requiring the help of a Magic-User. A Magic-User seeking to
+create potions must employ an alchemist. A Magic-User must be 9th level
+to create potions on their own, and 11th level to create other magic
+items.
+
+## Memorizing Spells
+
+Spell memorization requires a minimum rest period of 4 hours, which must
+be spent in a quiet place without interruption. Once this period has
+expired, it takes fifteen minutes per level to memorize spells; in other
+words, a character memorizing one 3rd, two 2nd and four 1st level spells
+would require a further (45+30+30+15+15+15+15=) two hours and forty-five
+minutes of memorization time. Spells, once cast, are lost from the
+casting character's memory and cannot be reused until the caster
+memorizes them again. (Exception: It is possible to memorize the same
+spell twice or even more times if the caster has sufficient spell
+slots.)
+
+## Scribing Scrolls
+
+Scrolls may be created by Clerics or Magic-Users at a cost of 500sp per
+level of the spell, and require a full week of work for each spell
+level. Magically-infused inks brewed by alchemists are the main
+component of this cost, and these may not be readily available outside
+large cities. A character cannot scribe a scroll based off another
+scroll.
+
+## Spell Scrolls
+
+It is not possible to memorize a spell from a scroll, although magic
+users may copy the spell from the scroll into their spell books, if they
+understand the spell. This process always erases the scroll. This is the
+primary means by which magic users will acquire new spells for their
+spell books.
+
+Alternatively, the spell may be cast directly from the scroll, in which
+case the scroll is erased as the spell is cast. In this case, it is not
+necessary for the caster to know the spell beforehand, and indeed it is
+possible to cast a spell from a scroll even if the caster does not know
+the spell or is of insufficient level to use the magic.
+
+In extreme cases (such as when a character casts a spell from a scroll
+well above the level he or she could normally memorize) the referee will
+assign a chance that the spell will fail.
+
+A character must be of the correct class to cast a spell from a scroll.
+Thus, only Clerics or Paladins may cast spells from clerical scrolls,
+only Druids or Rangers from druidic ones, and so on. (Exception: Thieves
+may attempt to cast arcane and phantasmal spells from scrolls.)
+
+## Spell Lists
+
+The spell lists & spells are as in *OSRIC*.-   **Read Languages:** The Thief may attempt to read languages and ciphers of a non-magical nature only.
+
+### Thief Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d6) | To-Hit Bonus | Saving Throw |
+|-------|-----------------------|----------------|---------------|--------------|
+| 1     | 0                     | 1              | 0             | 14           |
+| 2     | 1,250                 | 2              | 0             | 14           |
+| 3     | 2,500                 | 3              | +1            | 14           |
+| 4     | 5,000                 | 4              | +1            | 14           |
+| 5     | 10,000                | 5              | +2            | 13           |
+| 6     | 20,000                | 6              | +2            | 13           |
+| 7     | 40,000                | 7              | +3            | 12           |
+| 8     | 70,000                | 8              | +3            | 12           |
+| 9     | 110,000               | 9              | +4            | 11           |
+| 10    | 160,000               | 10             | +4            | 11           |
+| 11    | 220,000               | 10+2*          | +5            | 10           |
+| 12    | 440,000               | 10+4*          | +5            | 10           |
+| 13    | 660,000               | 10+6*          | +6            | 9            |
+| 14    | 880,000               | 10+8*          | +6            | 9            |
+| 15    | 1,100,000             | 10+10*         | +7            | 9            |
+| 16    | 1,320,000             | 10+12*         | +7            | 9            |
+| 17    | 1,540,000             | 10+14*         | +8            | 8            |
+| 18    | 1,760,000             | 10+16*         | +8            | 8            |
+| 19    | 1,980,000             | 10+18*         | +9            | 8            |
+| 20    | 2,200,000             | 10+20*         | +9            | 8            |
+| 21+   | 2,420,000             | 10+22*         | +10           | 7            |
+
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 220,000 XP and grants +2 hp.*
+
+# Magic & Spells
+
+## Creating Magic Items
+
+Potions are created by alchemists, with the more powerful potions usually requiring the help of a Magic-User. A Magic-User seeking to create potions must employ an alchemist. A Magic-User must be 9th level to create potions on their own, and 11th level to create other magic items.
+
+## Memorizing Spells
+
+Spell memorization requires a minimum rest period of 4 hours, which must be spent in a quiet place without interruption. Once this period has expired, it takes fifteen minutes per level to memorize spells; in other words, a character memorizing one 3rd, two 2nd and four 1st level spells would require a further (45+30+30+15+15+15+15=) two hours and forty-five minutes of memorization time. Spells, once cast, are lost from the casting character's memory and cannot be reused until the caster memorizes them again. (Exception: It is possible to memorize the same spell twice or even more times if the caster has sufficient spell slots.)
+
+## Scribing Scrolls
+
+Scrolls may be created by Clerics or Magic-Users at a cost of 500sp per level of the spell, and require a full week of work for each spell level. Magically-infused inks brewed by alchemists are the main component of this cost, and these may not be readily available outside large cities. A character cannot scribe a scroll based off another scroll.
+
+## Spell Scrolls
+
+It is not possible to memorize a spell from a scroll, although magic users may copy the spell from the scroll into their spell books, if they understand the spell. This process always erases the scroll. This is the primary means by which magic users will acquire new spells for their spell books.
+
+Alternatively, the spell may be cast directly from the scroll, in which case the scroll is erased as the spell is cast. In this case, it is not necessary for the caster to know the spell beforehand, and indeed it is possible to cast a spell from a scroll even if the caster does not know the spell or is of insufficient level to use the magic.
+
+In extreme cases (such as when a character casts a spell from a scroll well above the level he or she could normally memorize) the referee will assign a chance that the spell will fail.
+
+A character must be of the correct class to cast a spell from a scroll. Thus, only Clerics or Paladins may cast spells from clerical scrolls, only Druids or Rangers from druidic ones, and so on. (Exception: Thieves may attempt to cast arcane and phantasmal spells from scrolls.)
+
+## Spell Lists
+
+The spell lists & spells are as in *OSRIC*.
+
 
