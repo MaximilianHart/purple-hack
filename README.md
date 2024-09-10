@@ -1,3 +1,4 @@
+# Purple Hack
 > *A fair-use amalgamation of OD&D (Attributes, Combat, & Cleric Spell Progression - ref. Swords & Wizardry), AD&amp;D 1e (Spells & Classes - ref. OSRIC), AD&D 2e (Thief - ref. For Gold & Glory), B/X (Procedures - ref. Old-School Essentials) and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the class descriptions, unified saving throw & quick combat of Swords & Wizardry, plus some procedures from B/X and some other sources that I enjoy. Much of this is copied & pasted from the above sources; this is not intended to be original work, but a tribute & home game "house rules" set. Please don't sue me. :grimacing:*
 
 # Table of Contents
