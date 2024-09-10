@@ -1,5 +1,6 @@
 # Purple Hack
-*A fair-use amalgamation of AD&amp;D 1e (via OSRIC), *Swords &amp; Wizardry*, and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.*
+> [!NOTE]
+> *A fair-use amalgamation of AD&amp;D 1e (via OSRIC), *Swords &amp; Wizardry*, and other RPGs into a single ruleset for personal use. The design goal is to combine some meaningful character creation choices from AD&D/OSRIC with the unified saving throw & quick combat of *Swords & Wizardry*, plus some procedures from B/X and some other sources that I enjoy.*
 
 # Character Creation Quickstart
 
@@ -22,9 +23,7 @@ Roll 3d6 down the line for Str, Dex, Con, Int, Wis, and Cha. You can swap one se
 
 *1d8/level thereafter
 
----
-
-**You Start at Level 1; Note XP Needed for Level 2**
+## You Start at Level 1; Note XP Needed for Level 2
 
 Each class is different to balance them out a bit!
 
@@ -36,7 +35,7 @@ Each class is different to balance them out a bit!
 - Ranger: 2,250XP
 - Thief: 1,250XP
 
-**Note Your Saving Throw**
+## Note Your Saving Throw
 
 *You'll need to roll this number or lower to succeed.*
 
@@ -47,8 +46,6 @@ Each class is different to balance them out a bit!
 - Paladin: 12
 - Ranger: 15
 - Thief: 14 (+2 vs devices incl. magical)
-
----
 
 ## Choose Alignment
 
@@ -68,9 +65,7 @@ Note that non-humans cannot be Paladins or Rangers. Some non-human races have le
 - **Half-Elf**: Requires 6 Dex, 6 Con, 4 Int. Infravision 60'. 30% resistance to *sleep* and *charm* spells. 4-in-6 chance to find secret doors. *Can be Cleric (5), Fighter (Str 18: 8, Str 17: 7, Str 16-: 6), Magic-User (Int 18: 8, Int 17: 7, Int 16-: 6), Thief, Cleric/Fighter, Cleric/Magic-User, Fighter/Magic-User, Fighter/Thief, Magic-User/Thief, Cleric/Fighter/Magic-User, or Fighter/Magic-User/Thief.*
 - **Halfling**: -1 Str, +1 Dex. Requires 6 Str, 8 Dex, 10 Con, 6 Int. +4 on saving throws vs magic, +1 bonus to missile weapon attacks. 2-in-6 Listening at Doors. Thieves: +1 Pick Pockets, +1 Open Locks, +1 Find/Remove Traps, +3 Move Silently, +3 Hide in Shadows, -3 Climb Walls, +1 Detect Noise, -1 Read Languages. *Can be Fighter (4), Druid (6), Thief, or Fighter/Thief.*
 
----
-
-**Note Your Ability Score Modifiers**
+## Note Your Ability Score Modifiers
 
 **Strength (Str)**: *Modifies your chance to hit with attacks, your damage & your chance to open stuck doors.*
 
@@ -141,9 +136,8 @@ Roll your hit die (reroll 1s & 2s). Add your Con modifier if you have one!
 | 16-17   | +1            | 6     | 9       |
 | 18      | +2            | 7     | 10      |
 
----
-
-**Roll Quick Equipment** * **(Or roll 3d6*10sp and go shopping!)**
+## Roll Quick Equipment
+**(Or roll 3d6*10sp and go shopping!)**
 
 *We're using "item slot" encumbrance. Most things are 1 slot, but 2h weapons and medium armor are 2, heavy armor is 3, and coins & gems stack to 500 in a slot. If you cross the line marked on your character sheet, you're encumbered.*
 
@@ -163,22 +157,6 @@ Roll your hit die (reroll 1s & 2s). Add your Con modifier if you have one!
   - If you're a cleric, be sure to buy a holy symbol!
   - Make a note on your sheet which slots belong to which containers you have (backpack, sacks, etc.). Small sacks require one hand to carry, large sacks require two hands.
 
----
-
-**Note Your XP Bonus** (If Any)
-
-+5% XP (cumulative) bonus for each of the following: Prime Attribute(s) 13+, Wis 13+, Cha 13+.
-
-**Note Your Movement Speed**
-
-The first number is your exploration speed, the second is your speed in combat.
-
-| Armor Worn               | Unencumbered   | Encumbered     |
-|--------------------------|----------------|----------------|
-| Unarmored, Leather       | 120' (40')     | 90' (30')      |
-| Ring, Scale, Chainmail   | 90' (30')      | 60' (20')      |
-| Splint, Plate            | 60' (20')      | 30' (10')      |
-
 ## Adventuring Gear Table
 
 | 1d12 | Gear                          | 1d12 | Gear                          |
@@ -189,6 +167,21 @@ The first number is your exploration speed, the second is your speed in combat.
 | 4    | Lantern + Oil flask x3        | 10   | Vial, glass x3               |
 | 5    | Hand mirror                   | 11   | Mallet + stakes x3           |
 | 6    | Pole, 10'                     | 12   | Wolfsbane sprig              |
+
+## Note Your XP Bonus (If Any)
+
++5% XP (cumulative) bonus for each of the following: Prime Attribute(s) 13+, Wis 13+, Cha 13+.
+
+## Note Your Movement Speed
+
+The first number is your exploration speed, the second is your speed in combat.
+
+| Armor Worn               | Unencumbered   | Encumbered     |
+|--------------------------|----------------|----------------|
+| Unarmored, Leather       | 120' (40')     | 90' (30')      |
+| Ring, Scale, Chainmail   | 90' (30')      | 60' (20')      |
+| Splint, Plate            | 60' (20')      | 30' (10')      |
+
 
 ## Check Any Special Abilities You Have:
 
@@ -203,24 +196,16 @@ The first number is your exploration speed, the second is your speed in combat.
 - **Parry**: Fighters with a Dexterity score of 14 or better can parry instead of attacking to penalize incoming attacks at the following rate: Dex 14-15=-1 to hit, Dex 16-17=-2 to hit, Dex 18=-3 to hit.
 - **Protection from Evil**: A Paladin radiates an aura within a 10' radius, equivalent to the clerical spell *protection from evil*.
 - **Thieving Skills**: You're preternaturally good at some things. Roll the number listed or lower on 1d20 to succeed. At 1<sup>st</sup> level, you have 12 points to add to your skills (no more than 6 to one single skill). You'll also add your Dex mod to * skills. If you wear armor other than padded or leather while attempting the * skills or Climb Walls, you have a penalty equal to the number of slots the armor takes. Note: These Thieving Skills are also modified by your race.
-
-<div>
-
--   *Pick Pockets: 3
--   *Open Locks: 2
--   *Find/Remove Traps: 1
--   *Move Silently: 2
--   *Hide in Shadows: 1
--   Climb Walls: 12
--   Detect Noise: 3
--   Read Languages: 0
-
-</div>
-
+  -   *Pick Pockets: 3
+  -   *Open Locks: 2
+  -   *Find/Remove Traps: 1
+  -   *Move Silently: 2
+  -   *Hide in Shadows: 1
+  -   Climb Walls: 12
+  -   Detect Noise: 3
+  -   Read Languages: 0
 - **Tracking**: Rangers are able to track other creatures, with a base chance of 90% (modifiers in full rules).
 - **Turn Undead**: Clerics present their holy symbol in an attempt to "turn" the undead, causing the foul monsters to flee. Higher-level chaotic clerics may choose to control the undead instead of turning them. Roll 1d20, and if the number is equal to or greater than the number below, 2d6 creatures of the targeted type are turned and depart, not returning for 3d4 rounds: Skeleton (10), Zombie (13), Ghoul (16), Shadow (19), Wight (20).
-
-<div>
 
 ## If You're A Magic-User, Roll for Spells
 
@@ -231,6 +216,21 @@ Read Magic & Detect Magic will always be your first spells; the rest will be ran
 | 3-8     | 2                 | 15-16   | 5                 |
 | 9-12    | 3                 | 17      | 6                 |
 | 13-14   | 4                 | 18      | 7                 |
+
+## Magic-User 1<sup>st</sup> Level Starting Spells
+
+Note that you can learn many more spells than this! These are just the "basics" any self-respecting Magic-User might be expected to know.
+
+1. **Charm Person.** Target thinks you're their bestie and might do what you say. Lasts longer vs dumb targets.
+2. **Detect Magic.** You see nearby enchanted stuff glow for 2 minutes/level.
+3. **Hold Portal**: Keep a door closed for 2 minutes/level.
+4. **Light**: 20' radius light cast on an object or eyeballs (it'll blind a baddie!). Lasts 10 min per level.
+5. **Magic Missile**: Auto-hit for 1d4+1 damage. More missiles as you level.
+6. **Protection from Evil**: Against creatures of another alignment, you get +2 to saving throws and they get -2 to attack you for 2 minutes/level. Summoned & conjured creatures can't touch you.
+7. **Read Languages**: You can read 2 things written in any language.
+8. **Read Magic**: For 2 minutes/level, you can read magical scrolls, spellbooks, & inscriptions not written by you. Once you've read something once, you can read it again without recasting this spell.
+9. **Shield**: A frontal shield that gives you +1 on saving throws vs frontal attacks, AC 18 vs thrown weapons, AC 17 vs missiles, and AC 16 vs other attacks. *Magic missiles* can't penetrate it.
+10. **Sleep**: Magically puts creatures to sleep in a 15' radius. You'll want to read the actual description for this one.
 
 ## Note a Motivation or Motto
 
@@ -252,37 +252,11 @@ Read Magic & Detect Magic will always be your first spells; the rest will be ran
 
 ---
 
-## Magic-User 1<sup>st</sup> Level Starting Spells
+# Armor, Weapons, and Equipment
+> [!NOTE]
+> 100cp=10sp=2ep=1gp
 
-Note that you can learn many more spells than this! These are just the "basics" any self-respecting Magic-User might be expected to know.
-
-> 1. **Charm Person.** Target thinks you're their bestie and might do what you say. Lasts longer vs dumb targets.
->
-> 2. **Detect Magic.** You see nearby enchanted stuff glow for 2 minutes/level.
->
-> 3. **Hold Portal**: Keep a door closed for 2 minutes/level.
->
-> 4. **Light**: 20' radius light cast on an object or eyeballs (it'll blind a baddie!). Lasts 10 min per level.
->
-> 5. **Magic Missile**: Auto-hit for 1d4+1 damage. More missiles as you level.
->
-> 6. **Protection from Evil**: Against creatures of another alignment, you get +2 to saving throws and they get -2 to attack you for 2 minutes/level. Summoned & conjured creatures can't touch you.
->
-> 7. **Read Languages**: You can read 2 things written in any language.
->
-> 8. **Read Magic**: For 2 minutes/level, you can read magical scrolls, spellbooks, & inscriptions not written by you. Once you've read something once, you can read it again without recasting this spell.
->
-> 9. **Shield**: A frontal shield that gives you +1 on saving throws vs frontal attacks, AC 18 vs thrown weapons, AC 17 vs missiles, and AC 16 vs other attacks. *Magic missiles* can't penetrate it.
->
-> 10. **Sleep**: Magically puts creatures to sleep in a 15' radius. You'll want to read the actual description for this one.
-
----
-
-## Armor, Weapons, and Equipment
-
-100cp=10sp=2ep=1gp
-
-### Armor
+## Armor
 
 | Armor             | AC   | Slots | Cost   |
 |-------------------|------|-------|--------|
@@ -293,6 +267,8 @@ Note that you can learn many more spells than this! These are just the "basics" 
 | Chainmail         | 15   | 2     | 75sp   |
 | Splint            | 16   | 3     | 80sp   |
 | Plate             | 17   | 3     | 400sp  |
+
+## Weapons
 
 ### Melee Weapons
 
@@ -348,7 +324,7 @@ Note that you can learn many more spells than this! These are just the "basics" 
 
 †Shooting or throwing beyond this range is at a -2 penalty to hit. The weapon cannot reach farther than twice this range. Outdoors, these range increments are tripled.
 
----
+## Equipment
 
 ### Clothing
 
@@ -433,8 +409,6 @@ Note that you can learn many more spells than this! These are just the "basics" 
 | *Vial, glass x3                   | 3sp    |
 | *Water/wineskin (2 pints)         | 1sp    |
 
----
-
 ### Provisions
 
 | Provisions                        | Cost   |
@@ -484,8 +458,6 @@ Note that you can learn many more spells than this! These are just the "basics" 
 | Ship, war                        | 20,000sp|
 | Galley, large                    | 25,000sp|
 
----
-
 **Caltrops**: Small metal spikes sufficient to cover a 5' × 5' area. Creatures moving through the area have a 2-in-6 chance of treading on a spike. Victims suffer a 50% reduction of movement rate for 24 hours (or until they receive magical healing).
 
 **Candle**: Burn for 30min, 10' radius.
@@ -499,3 +471,7 @@ Note that you can learn many more spells than this! These are just the "basics" 
 **Oil**: Fuels lantern 4 hours. Poured on ground and lit burns for 1 turn. Thrown on monster (roll to hit) & set on fire does 1d6 damage each round for two rounds.
 
 **Torches**: Burn for 1 hour, 30' radius.
+
+---
+
+
