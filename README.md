@@ -680,7 +680,7 @@ Unlike multi-class characters, dual-classed characters cannot perform the functi
 
 # Classes
 
-# Cleric
+## Cleric
 
 Clerics are armored warrior-priests (or -priestesses) who serve Law or Chaos. Most Clerics have a patron deity or serve a particular religion, although the unified power of Law is paramount for Lawful Clerics and has an existence in and of itself. You are a champion of your faith and moral alignment. You might be a shining knight of the faith, an exorcist of demons, or a sinister witch-hunter. Because most of a Cleric's abilities are oriented toward healing and protecting, Clerics tend to play a support role during combat: backing up the front line, but able to stand shoulder to shoulder with the party's Fighters if the need arises at least for a while. As your Cleric grows in power and reputation, the character might establish a stronghold for the faith: a fortified monastery, a soaring cathedral in the wilderness, or whatever strikes the Cleric as the best way to protect and serve a growing flock of acolytes and loyal peasant followers.
 
@@ -704,7 +704,7 @@ Clerics are armored warrior-priests (or -priestesses) who serve Law or Chaos. Mo
 
 **Religious Stronghold (9th level):** At ninth level, a Cleric character may establish a stronghold and attract a body of men-at-arms who swear fealty to the character as loyal (or perhaps even fanatical) soldiers and retainers.
 
-## Cleric Turn Undead Table
+### Cleric Turn Undead Table
 
 | Type of Undead | Example   | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9-13 | 14-18 | 19+ |
 |----------------|-----------|----|----|----|----|----|----|----|----|-------|-------|-----|
@@ -724,7 +724,7 @@ Clerics are armored warrior-priests (or -priestesses) who serve Law or Chaos. Mo
 
 T = Automatically turned. D = Automatically destroyed. For evil Clerics, D = forced into servitude for 24 hours.
 
-## Cleric Level Advancement
+### Cleric Level Advancement
 
 | Level | XP Required for Level | Hit Dice (1d8) | To-Hit Bonus | Saving Throw | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-------|-----------------------|----------------|--------------|--------------|---|---|---|---|---|---|---|
@@ -753,4 +753,126 @@ T = Automatically turned. D = Automatically destroyed. For evil Clerics, D = for
 | 23    | 3,375,000             | 9+28*          | +11          | 5            | 9 | 9 | 9 | 8 | 8 | 6 | 4 |
 | 24    | 3,600,000             | 9+30*          | +11          | 5            | 9 | 9 | 9 | 8 | 7 | 4 | - |
 
-\* Constitution hp adjustments no longer apply. Each level gained thereafter requires 225,000 XP and grants +2 hp.
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 225,000 XP and grants +2 hp.*
+
+## Druid
+
+Druids are part of a mysterious religious order of priests and priestesses who worship and serve the powers of nature. As a Druid, you have great reverence for the natural world, and are more comfortable with plants and animals than with other people. You can cast spells to talk with wildlife, or enlist animals and even plants as your allies, but you are also an able fighter in defense of your forest and your friends. You share some characteristics with Fighters, Clerics, and Magic-Users, but you are not as strong as those classes in their own specialties. However, you are better in physical combat than a Magic-User, while still having some healing ability and offensive spell power. Some of your nature spells are unlike anything a Cleric or Magic-User can cast. You are ready to extend the balance of nature to human affairs and have little tolerance for those who go to excess either for good or evil, Law or Chaos. You keep your rituals secret and prefer to live in the wilderness rather than in cities. Your ability to control fire helps to protect your sacred groves, but also can be effective in battle. One day, when you gain all your powers, you might choose to leave the life of adventuring and retreat to the ancient forests, never to be seen again. Or you might choose to establish a Druidic citadel in a forest or around a newly-raised henge of stones. The decision is yours.
+
+> **Prime Attribute**: Wisdom *and* Charisma, both 13+ (+5% experience bonus)
+>
+> **Hit Dice**: 1d8/level (Max level 14)
+>
+> **Armor/Shield Permitted**: Leather armor, wooden shield.
+>
+> **Weapons Permitted**: Club, dagger, dart, hammer, sickle-shaped shortsword, spear, sling, staff, oil.
+>
+> **Race**: Halflings and Humans may be Druids.
+
+**Magic Items**: Druids are able to use any magical item Clerics can, with the exception of Clerical spell scrolls.
+
+**Mistletoe**: Rather than using a holy symbol as Clerics do, Druids require mistletoe, holly, or (if neither can be found) oak leaves to cast their spells. A Druid can barely cast spells at all without the mystical or symbolic connection provided by the mistletoe sprig. The connection of a Druid to nature is not the same as the Cleric's connection to a divine being; it is inherently more inchoate, less focused, and more diverse. Although Druids are considered a sub-class of Clerics, their magic bears some partial similarities to that of Magic Users: they require more of a symbolic focus and rely to a greater degree on learning and lore than upon the faith, devotional, and crusading aspects that are so crucial to the power of a true Cleric of Law or Chaos.
+
+**Saving Throw Bonus**: Druids gain a +2 bonus on saving throw rolls against fire & lightning.
+
+**Secret Language**: The Druidic hierarchy speaks a secret language known to all true (Neutral) Druids.
+
+**Spell Casting**: Druids cast spells from a specific list, with numbers as per the Druid Level Advancement table. Each day, the Druid selects and prays for a particular set of spells, choosing any spells from the standard Druid spell list. Once a spell is cast, it cannot be cast again until the next day, unless the Druid prepares (prays for) the spell more than once.
+
+**Druid's Knowledge (3rd):** At 3rd level, a Druid can identify plant and animal types, and can determine when water is pure and safe to drink.
+
+**Wilderness Movement (3rd):** At third level and higher, a Druid can move through any natural undergrowth leaving no trace of his or her passage, and may do so with no reduction in his or her normal movement speed.
+
+**Immunity to Fey Charms (7th):** At 7th level, the Druid becomes completely immune to the charms of dryads, naiads, satyrs, and other such fey creatures of the wild woods and rivers.
+
+**Shape Change (7th):** Also at 7th level, the Druid can change shape into the form of an animal up to three times per day. The form assumed must be a natural animal, no smaller than a mouse, and no larger than double the Druid's normal weight. The Druid can change into as many as three different animal forms per day --- one from each category of reptile, mammal, and bird but only once for each form within a single day. When the Druid shapeshifts, 1d6 x 10 percent of any lost hit points are cured.
+
+**Druidic Stronghold (11th):** Upon reaching 11th level, a Druid may build a stronghold in the wilderness, usually made up of a stone circle and/or other megaliths, one or more groves, and a fortress redoubt of some kind to protect the area. Such isolated strongholds often serve as informal academies for aspirant Druids in-training, or as fortresses sited to defend wilderness areas threatened by Law or Chaos. A Druid who establishes such a stronghold gathers supporters and followers, although many of these will not be human.
+
+**Druidic Hierarchy:** There can only be a certain number of high-level Druids in the world. The limits are: 12th level Druid (High Druid)---no more than 3 in the world at any one time; 13th level Druid (Archdruid)---no more than 2 in the world at any given time; only one 14th level Druid (Supreme Druid) can exist. If a Druid receives so many experience points that he or she is eligible to increase to these levels, but all the vacant slots are already filled, then he or she must create a vacancy. This is done by issuing a formal challenge to the Druid in question, following which the two characters must compete in a contest of some kind---often, but not necessarily, a duel. The loser of the contest goes down to the next lowest level (losing all experience down to the very minimum to qualify for the new level). This may, in turn, result in a further contest if the preceding level is also fully occupied.
+
+A Druid who has lost a challenge, regained the necessary experience to make another, and then declines to make that challenge, becomes an outcast. Such Druids can continue to advance in levels, but those who forgo the challenges and strike out on their own path are forever separated from the protection, assistance, and community of the Druidic hierarchy. They are considered, for all intents and purposes, to be renegades.
+
+### Druid Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d8) | To-Hit Bonus | Saving Throw | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|-------|-----------------------|-----------------|---------------|--------------|---|---|---|---|---|---|---|
+| 1     | 0                     | 1               | 0             | 14           | 1 | - | - | - | - | - | - |
+| 2     | 2,000                 | 2               | 0             | 14           | 2 | 1 | - | - | - | - | - |
+| 3     | 4,000                 | 3               | +1            | 13           | 3 | 2 | 1 | - | - | - | - |
+| 4     | 8,000                 | 4               | +2            | 12           | 4 | 2 | 2 | - | - | - | - |
+| 5     | 12,000                | 5               | +2            | 12           | 4 | 3 | 2 | - | - | - | - |
+| 6     | 20,000                | 6               | +3            | 11           | 4 | 3 | 2 | 1 | - | - | - |
+| 7     | 35,000                | 7               | +4            | 10           | 4 | 4 | 3 | 1 | - | - | - |
+| 8     | 60,000                | 8               | +4            | 10           | 4 | 4 | 3 | 2 | - | - | - |
+| 9     | 90,000                | 9               | +5            | 10           | 5 | 4 | 3 | 2 | 1 | - | - |
+| 10    | 125,000               | 10              | +6            | 9            | 5 | 4 | 3 | 3 | 2 | - | - |
+| 11    | 200,000               | 11              | +6            | 9            | 5 | 5 | 3 | 3 | 2 | 1 | - |
+| 12    | 300,000               | 12              | +7            | 9            | 5 | 5 | 4 | 4 | 3 | 2 | 1 |
+| 13    | 750,000               | 13              | +8            | 8            | 6 | 5 | 5 | 5 | 4 | 3 | 2 |
+| 14*   | 1,500,000             | 14              | +8            | 8            | 6 | 6 | 6 | 5 | 4 | 3 | - |
+|-------|-----------------------|-----------------|---------------|--------------|---|---|---|---|---|---|---|
+
+**14th level is the ceiling for Druids. Any further experience points past 1,500,000 the Druid receives will be lost.*
+
+## Fighter
+
+You are a warrior trained in battle and in the use of armor and weapons. Perhaps you are a ferocious Viking raider, a roaming samurai, a dashing swashbuckler, a deadly swordswoman, or a chivalrous knight. Whatever type of Fighter you choose to play, you will probably end up on the front lines of your adventuring party---going toe-to-toe with dragons, goblins, and evil cultists, hacking your way through them and taking the brunt of their attacks. The Fighter character is the best-equipped of all the character classes to dish out damage and absorb it, too. Clerics heal and Magic-Users cast spells, but the down-and-dirty, hack-and-slash work is generally up to you.
+
+Most Fighters look forward to the day when their reputations will bring them into the ranks of the lesser nobility, where fighting prowess and armed followers are more important than high-flown bloodlines. It is no small matter to carve a freehold out of the wilderness, but to do so is to leave behind a legacy in a world where most fortune-seekers die an unsung death. A Fighter of 9th level or higher who has built a castle and cleared a wide area around it of monsters (at least a 20 mile radius), will attract a body of mercenaries to his or her service, provided that these are paid a fair wage. He or she will also be able to tax each freeholder, at up to the maximum rate of 1 sp per month per resident. Some players may choose to retire a character at this point, satisfied that the character has entered the historical records and legends of the campaign world. Others may choose to view the stronghold merely as the first step toward the pinnacles of mythic power. Such player-held castles and villages provide a higher-level party with a base for adventures, a stronghold against enemies, and possibly the introduction of feudal politics and war into their already-eventful lives.
+
+> **Prime Attribute**: Strength, 13+ (+5% experience bonus)
+>
+>  **Hit Dice**: 1d10/level (Gain 3hp/level after 9th level)
+>
+> **Armor/Shield Permitted**: Any
+>
+> **Weapons Permitted**: Any
+>
+> **Race**: Any
+
+**Bonus Attacks:** Fighters with melee weapons attack once per round at 1st to 6th levels (1/1 attacks); at 7th to 12^th^ levels, they attack thrice every two rounds (3/2 attacks); and at 13th or higher levels they attack twice per round (2/1 attacks). A partial additional attack (e.g. 3/2 attacks) means that the extra attack is taken on odd-numbered rounds in the combat sequence, hence two attacks on the first round, one on the second, two on the third and one on the fourth, if applicable.
+
+**Fighting the Unskilled**: Against creatures with 1 (8-sided) hit die or less, a Fighter makes one attack per level each round. A Fighter exercising multiple attacks departs from the normal initiative procedure. The Fighter will automatically attack first in the round unless fighting an opponent with multiple attacks of its own (in which case initiative should be rolled as normal). The Fighter's second attack in any given melee round will come in their usual place, and any further attacks will come last in the sequence.
+
+**Saving Throw Bonus**: Fighters have a +1 bonus on all saving throws except against spells (including those from wands and staffs).
+
+**Strength Bonuses**: Unlike most other character classes, Fighters with a high Strength can have bonuses to hit and on damage.
+
+ **Parry**: Fighters with a Dexterity score of 14 or better can fight on the defensive, parrying enemy blows and dodging attacks instead of attacking, as shown on the table below.
+
+| Dexterity Score | Penalty to Enemy Attacks |
+|-----------------|--------------------------|
+| 14-15           |  -1 |
+| 16-17           | -2 |
+| 18              |  -3 |
+
+**Establish Stronghold (9th)**: At 9th level, a Fighter may establish a stronghold and attract a body of men-at-arms who swear their loyalty to the character as their liege lord (or lady). Most likely, the castle attracts peasants seeking safe places to establish homes, and the Fighter becomes more powerful and influential as the number of such followers increases. The stronghold will likely be a small territory carved from the wilderness, held as a freehold by the self-ennobled character.
+
+### Fighter Level Advancement
+
+| Level | XP Required for Level | Hit Dice (1d10) | To-Hit Bonus | Saving Throw |
+|-------|-----------------------|-----------------|---------------|--------------|
+| 1     | 0                     | 1               | 0             | 15           |
+| 2     | 1,900                 | 2               | +1            | 14           |
+| 3     | 4,250                 | 3               | +2            | 14           |
+| 4     | 7,750                 | 4               | +3            | 13           |
+| 5     | 16,000                | 5               | +4            | 12           |
+| 6     | 35,000                | 6               | +5            | 12           |
+| 7     | 75,000                | 7               | +6            | 11           |
+| 8     | 125,000               | 8               | +7            | 10           |
+| 9     | 250,000               | 9               | +8            | 9            |
+| 10    | 500,000               | 9+3*             | +9            | 9            |
+| 11    | 750,000               | 9+6*             | +10           | 8            |
+| 12    | 1,000,000             | 9+9*             | +11           | 7            |
+| 13    | 1,250,000             | 9+12*            | +12           | 6            |
+| 14    | 1,500,000             | 9+15*            | +13           | 6            |
+| 15    | 1,750,000             | 9+18*            | +14           | 5            |
+| 16    | 2,000,000             | 9+21*            | +15           | 5            |
+| 17    | 2,250,000             | 9+24*            | +16           | 4            |
+| 18    | 2,500,000             | 9+27*            | +17           | 3            |
+| 19    | 2,750,000             | 9+30*            | +18           | 3            |
+| 20+   | 3,000,000             | 9+33*            | +19           | 2            |
+
+**Constitution hp adjustments no longer apply. Each level gained thereafter requires 250,000 XP and grants +3 hp.*
+
