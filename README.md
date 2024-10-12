@@ -627,13 +627,70 @@ Sages not employed by a PC will often charge around 100sp to identify a potion, 
 
 ## Wilderness Exploration
 
-PCs have "movement points" (MP) equal to miles per day (per-turn move rate/5, in miles) divided by hex size. +1 MP if on a road all day.
+Each day, roll 1d4, 1d6, 1d8, 1d12, 1d100.
 
-Each hex costs a number of MP to move into. Clear = 1, Rough = 2, Very Rough = 3. One MP may "roll over" to the next day, and PCs may "force march" to gain 1 additional MP, but must rest the next full day.
+### 1. Check for Encounters
+
+**1d6** for encounter chance:
+
+- City, clear, grassland, settled		1-in-6
+- Air, barren, forest, hills, ocean, river, desert			2-in-6
+- Jungle, mountains, swamp		3-in-6
+
+If there's an encounter, 1d100 roll on the appropriate encounter table.
+
+**1d8** for lair (1), tracks (2), or normal (3-8)
+
+**1d4** for Encounter time: Morning (4a-10a), Daytime (10a-4p), Evening (4p-10p), Night (10p-4a)
+
+### 2. Check for Lost Chance - 1d12 (1d10 in adverse conditions)
+
+| 1d12 | Clear, Grasslands |
+|-----|--------|
+| 1 | Veer 1 hex clockwise   |
+| 2 | Veer 1 hex counterclockwise   |
+| 3-12 | Not lost |
+
+| 1d12 | Barren, Hills, Forest, Mountains |
+|-----|--------|
+| 1 | Veer 1 hex clockwise   |
+| 2 | Veer 1 hex counterclockwise   |
+| 3 | Veer 2 hexes clockwise |
+| 4 | Veer 2 hexes counterclockwise |
+| 5-12 | Not lost |
+
+| 1d12 | Desert, Jungle, Swamp |
+|-----|--------|
+| 1 | Veer 1 hex clockwise   |
+| 2 | Veer 1 hex counterclockwise   |
+| 3 | Veer 2 hexes clockwise |
+| 4 | Veer 2 hexes counterclockwise |
+| 5 | Move backwards 1 hex |
+| 6 | Lose a day of travel |
+| 7-12 | Not lost |
+
+### 3. Loop: Describe surroundings  
+### 4. Loop: Decide Direction
+
+PCs have "movement points" (MP) equal to miles per day (per-turn move rate/5, in miles) divided by hex size:
+| Armour | Normal | Encumbered |
+|--------|--------|------------|
+| Unarmored | 4 | 3 | 
+| Light | 3 | 2 |
+| Heavy | 2 | 1 |
+*+1 MP if on a road all day*
+
+Each hex costs a number of MP to move **into**. Clear = 1, Rough = 2, Very Rough = 3. One MP may "roll over" to the next day, and PCs may "force march" to gain 1 additional MP, but must rest the next full day.
+
+#### Finding Hidden Features
 
 Players may spend MP to have an X-in-Y chance of discovering any hidden features, where X is MP spent, and Y is 4 for clear terrain, 6 for rough terrain, and 8 for very rough terrain. You can spend multiple days to "guarantee" a successful exploration of a given area.
 
+#### Hunting
+
 Players may spend MP to have an X-in-Y chance of finding game (1d4xHD rations of food), where X is MP spent, and Y is 4 for terrain teeming with wildlife, 6 is normal, and 8 is sparsely populated. Rangers double the MP spent.
+
+### 5. Check foraging (1-in-6), mark off supplies, mark off calendar
 
 ## Saving Throws
 
