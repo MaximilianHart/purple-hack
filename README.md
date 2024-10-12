@@ -678,6 +678,7 @@ PCs have "movement points" (MP) equal to miles per day (per-turn move rate/5, in
 | Unarmored | 4 | 3 | 
 | Light | 3 | 2 |
 | Heavy | 2 | 1 |
+
 *+1 MP if on a road all day*
 
 Each hex costs a number of MP to move **into**. Clear = 1, Rough = 2, Very Rough = 3. One MP may "roll over" to the next day, and PCs may "force march" to gain 1 additional MP, but must rest the next full day.
